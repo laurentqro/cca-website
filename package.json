@@ -1,0 +1,26 @@
+{
+  "name": "cca-mc.com",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "autoprefixer": "^10.2.5",
+    "postcss": "^8.2.8",
+    "postcss-cli": "^8.3.1",
+    "postcss-import": "^14.0.0",
+    "tailwindcss": "^2.0.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laurentqro/cca-website.git"
+  },
+  "author": "Laurent Curau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laurentqro/cca-website/issues"
+  },
+  "homepage": "https://github.com/laurentqro/cca-website#readme",
+  "description": ""
+}
