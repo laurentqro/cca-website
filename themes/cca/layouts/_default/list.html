@@ -1,0 +1,11 @@
+{{ define "main" }}
+    <main class="flex-grow p-4">
+        <ul>
+            {{ range .Pages }}
+            <li>
+                <a href="{{.Permalink}}">{{.Title}}</a>
+            </li>
+            {{ end }}
+        </ul>
+    </main>
+{{ end }}
