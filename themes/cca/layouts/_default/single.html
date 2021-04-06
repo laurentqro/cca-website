@@ -1,27 +1,5 @@
 {{ define "main" }}
-    <h1>{{ .Title }}</h1>
-
-    <div>
-        {{ .Params.type_projet }}
-    </div>
-    <div>
-        {{ .Params.maitre_ouvrage }}
-    </div>
-    <div>
-        {{ .Params.maitre_oeuvre }}
-    </div>
-    <div>
-        {{ .Params.budget }}
-    </div>
-    <div>
-        {{ .Params.surface }}
-    </div>
-    <div>
-        {{ range $image_path := .Params.Images }}
-            <img class="w-9/12" src="/images/projets/{{ $image_path }}" alt="{{ $image_path }}">
-        {{ end }}
-    </div>
-    <div>
-        {{ .Content }}
-    </div>
+<main class="px-10">
+    {{ .Content }}
+</main>
 {{ end }}

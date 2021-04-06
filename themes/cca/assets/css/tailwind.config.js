@@ -15,8 +15,9 @@ module.exports = {
             pink: colors.fuchsia,
         },
         fontFamily: {
-            sans: ['Graphik', 'sans-serif'],
+            sans: ['Helvetica', 'sans-serif'],
             serif: ['Merriweather', 'serif'],
+            mono: ['Monaco', 'mono'],
         },
         extend: {
             spacing: {

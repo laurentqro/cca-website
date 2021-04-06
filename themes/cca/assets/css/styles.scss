@@ -1,3 +1,20 @@
 @import "node_modules/tailwindcss/base";
 @import "node_modules/tailwindcss/components";
 @import "node_modules/tailwindcss/utilities";
+
+@layer base {
+    h1 {
+      @apply text-5xl;
+      @apply py-4;
+      font-family: 'Gill Sans';
+    }
+
+    h2 {
+      @apply text-xl;
+      @apply py-2;
+    }
+
+    dt {
+      @apply uppercase;
+    }
+  }
