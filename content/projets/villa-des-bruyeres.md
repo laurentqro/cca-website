@@ -12,7 +12,6 @@ date_livraison: 2019
 images:
     - villa-bruyeres-1.jpg
     - villa-bruyeres-2.jpg
-    - villa-bruyeres-3.jpg
 draft: false
 ---
 Couverture de l'entrée d'un garage. Création d'un portique avec trois finitions de métal avec insertion de cordons lumineux LED.
