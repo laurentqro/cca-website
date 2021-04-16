@@ -1,3 +1,17 @@
 {{ define "main" }}
-  {{ .Content }}
+  <main>
+    <div class="grid grid-cols-2 gap-4">
+      {{ with .Site.GetPage "projets" }}
+          {{ range .Pages }}
+            {{ $vignette := index (.Params.images) 0 }}
+            <a href="{{.Permalink}}">
+              <img
+                src="/images/projets/{{$vignette}}"
+                loading="lazy"
+                alt="{{ .Title }}">
+            </a>
+          {{ end }}
+      {{ end }}
+    </div>
+  </main>
 {{ end }}
