@@ -14,4 +14,4 @@ images:
     - pavillon-france-2.jpg
 draft: false
 ---
-Construction d'un immeuble en R + 4.
+Construction d'un immeuble en R + 4

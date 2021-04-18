@@ -15,5 +15,4 @@ images:
     - extension-ministere-etat-4.jpg
 draft: false
 ---
-Dans le cadre d'un concours d'idées pour l'extension de l'annexe du ministère d'Etat, deux options étaient a illustrer pour répondre au mieux aux programmes: par la fonctionnalité des espaces, par la qualité architecturale, urbanistique et environnementale, par la réponse à l'organisation générale propre au ministère, par la réflexion concernant l'impact du chantier sur le fonctionnement des deux corps de bâtiments
-existants.
+Dans le cadre d'un concours d'idées pour l'extension de l'annexe du ministère d'Etat, deux options étaient a illustrer pour répondre au mieux aux programmes: par la fonctionnalité des espaces, par la qualité architecturale, urbanistique et environnementale, par la réponse à l'organisation générale propre au ministère, par la réflexion concernant l'impact du chantier sur le fonctionnement des deux corps de bâtiments existants

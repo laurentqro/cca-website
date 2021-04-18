@@ -15,4 +15,4 @@ images:
     - ecrin-malachite-3.jpg
 draft: false
 ---
-Création d'un ensemble immobilier à usage d'habitation comprenant trois villas de très haut standing à usage privé et d'un immeuble de huit appartements de standing supérieur à usage collectif.
+Création d'un ensemble immobilier à usage d'habitation comprenant trois villas de très haut standing à usage privé et d'un immeuble de huit appartements de standing supérieur à usage collectif

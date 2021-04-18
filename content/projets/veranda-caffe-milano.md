@@ -14,4 +14,4 @@ images:
     - veranda-caffe-milano-2.jpg
 draft: false
 ---
-Modification de la toîture de la véranda existante en une nouvelle véranda avec sa toîture-terrasse commerciale.
+Modification de la toîture de la véranda existante en une nouvelle véranda avec sa toîture-terrasse commerciale

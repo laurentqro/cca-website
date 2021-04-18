@@ -15,4 +15,4 @@ images:
     - clos-de-caille-3.jpg
 draft: false
 ---
-Travaux de réaménagement intérieur des corps de ferme.
+Travaux de réaménagement intérieur des corps de ferme

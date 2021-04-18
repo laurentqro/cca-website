@@ -17,4 +17,4 @@ images:
     - heliport-5.jpg
 draft: false
 ---
-Démolition par phases des existants, réalisation d'un corps de bâtiments neufs comprenant en rez-de-chaussée des aires de stationnement d'hélicoptères, l'héligare et les bureaux des compagnies aériennes ainsi que des bureaux.
+Démolition par phases des existants, réalisation d'un corps de bâtiments neufs comprenant en rez-de-chaussée des aires de stationnement d'hélicoptères, l'héligare et les bureaux des compagnies aériennes ainsi que des bureaux

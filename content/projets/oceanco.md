@@ -16,4 +16,4 @@ images:
     - oceanco-4.jpg
 draft: false
 ---
-Travaux de réaménagement des bureaux dans leur intégralité.
+Travaux de réaménagement des bureaux dans leur intégralité

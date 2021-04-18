@@ -14,4 +14,4 @@ images:
     - villa-bruyeres-2.jpg
 draft: false
 ---
-Couverture de l'entrée d'un garage. Création d'un portique avec trois finitions de métal avec insertion de cordons lumineux LED.
+Couverture de l'entrée d'un garage. Création d'un portique avec trois finitions de métal avec insertion de cordons lumineux LED

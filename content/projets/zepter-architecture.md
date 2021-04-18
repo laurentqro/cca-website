@@ -15,4 +15,4 @@ images:
     - zepter-garage-3.jpg
 draft: false
 ---
-Réaménagement d'un garage avec création d'un ascenseur pour automobile.
+Réaménagement d'un garage avec création d'un ascenseur pour automobile

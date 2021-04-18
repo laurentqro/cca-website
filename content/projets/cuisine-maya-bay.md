@@ -15,4 +15,4 @@ images:
     - maya-bay-3.jpg
 draft: false
 ---
-Création du bâti abritant la nouvelle cuisine du restaurant Le Maya Bay.
+Création du bâti abritant la nouvelle cuisine du restaurant Le Maya Bay

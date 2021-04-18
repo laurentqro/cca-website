@@ -16,4 +16,4 @@ images:
     - emilie-palace-4.jpg
 draft: false
 ---
-Travaux de réaménagement intérieurs de deux appartements en un.
+Travaux de réaménagement intérieurs de deux appartements en un

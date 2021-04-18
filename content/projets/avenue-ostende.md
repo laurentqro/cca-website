@@ -17,4 +17,4 @@ images:
     - avenue-ostende-5.jpg
 draft: false
 ---
-Travaux de réaménagement d'intérieur.
+Travaux de réaménagement d'intérieur

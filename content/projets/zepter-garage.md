@@ -13,4 +13,4 @@ images:
     - zepter-architecture.jpg
 draft: false
 ---
-Surélévation et transformation d'un immeuble avec création de deux logements.
+Surélévation et transformation d'un immeuble avec création de deux logements

@@ -17,4 +17,4 @@ draft: false
 ---
 Construction de trois villas, leurs garages privatifs, leurs espaces de services
 et l'aménagement de jardins paysagers, de piscines et d'un plan d'eau, situés en
-plein coeur de la pinède de la presqu'île du Larvotto.
+plein coeur de la pinède de la presqu'île du Larvotto

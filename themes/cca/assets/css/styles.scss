@@ -5,7 +5,7 @@
 @layer base {
     h1 {
       @apply text-5xl;
-      @apply py-4;
+      @apply py-6;
       font-family: 'Gill Sans';
     }
 
@@ -16,5 +16,14 @@
 
     dt {
       @apply uppercase;
+    }
+
+    ul {
+      @apply list-disc;
+      @apply p-4
+    }
+
+    p {
+      @apply py-2;
     }
   }
