@@ -3,27 +3,36 @@
 @import "node_modules/tailwindcss/utilities";
 
 @layer base {
+    html {
+      font-family: 'Gill Sans';
+      @apply text-lg;
+    }
+
     h1 {
       @apply text-5xl;
-      @apply py-6;
+      @apply pb-6;
       font-family: 'Gill Sans';
     }
 
     h2 {
-      @apply text-xl;
+      @apply text-2xl;
       @apply py-2;
     }
 
     dt {
-      @apply uppercase;
+      font-family: 'Gill Sans';
     }
 
     ul {
       @apply list-disc;
-      @apply p-4
+      @apply p-4;
     }
 
     p {
       @apply py-2;
+    }
+
+    nav ul li {
+      font-family: 'Gill Sans';
     }
   }
