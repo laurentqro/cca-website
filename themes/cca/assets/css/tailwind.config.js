@@ -15,9 +15,13 @@ module.exports = {
             pink: colors.fuchsia,
         },
         fontFamily: {
-            sans: ['Helvetica', 'sans-serif'],
+            sans: ['Trebuchet MS', 'Helvetica', 'sans-serif'],
             serif: ['Merriweather', 'serif'],
-            mono: ['Monaco', 'mono'],
+            mono: ['Monaco', 'mono', 'Courier New'],
+            simple: ['Inter', 'system-ui', 'sans-serif'],
+            playful: ['Poppins', 'system-ui', 'sans-serif'],
+            elegant: ['Tenor Sans', 'Georgia', 'serif'],
+            brutalist: ['Roboto Mono', 'Menlo', 'monospace'],
         },
         extend: {
             spacing: {
@@ -30,5 +34,5 @@ module.exports = {
         }
     },
     variants: {},
-    plugins: []
+    plugins: [],
 }

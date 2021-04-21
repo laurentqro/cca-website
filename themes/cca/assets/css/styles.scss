@@ -4,23 +4,18 @@
 
 @layer base {
     html {
-      font-family: 'Gill Sans';
+      @apply font-sans;
       @apply text-lg;
     }
 
     h1 {
       @apply text-5xl;
       @apply pb-6;
-      font-family: 'Gill Sans';
     }
 
     h2 {
       @apply text-2xl;
       @apply py-2;
-    }
-
-    dt {
-      font-family: 'Gill Sans';
     }
 
     ul {
@@ -30,9 +25,5 @@
 
     p {
       @apply py-2;
-    }
-
-    nav ul li {
-      font-family: 'Gill Sans';
     }
   }
