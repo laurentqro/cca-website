@@ -4,13 +4,11 @@
       {{ with .Site.GetPage "projets" }}
           {{ range .Pages }}
             {{ $vignette := index (.Params.images) 0 }}
-            <a href="{{.Permalink}}">
-              <img
-                src="/images/projets/{{$vignette}}"
-                class="border-2 border-gray-600 rounded-sm"
-                loading="lazy"
-                alt="{{ .Title }}">
-            </a>
+              <a href="{{ .Permalink }}" class="bg-auto bg-no-repeat bg-center h-80 cursor-pointer" style="background-image: url(/images/projets/{{$vignette}})">
+                <h3 class="bg-gray-900 bg-opacity-75 p-5 text-center">
+                  {{ .Title }}
+                </h3>
+              </a>
           {{ end }}
       {{ end }}
     </div>
