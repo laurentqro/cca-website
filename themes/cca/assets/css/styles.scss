@@ -5,7 +5,7 @@
 @layer base {
     html {
       @apply font-sans;
-      @apply text-lg;
+      @apply text-base;
     }
 
     h1 {
@@ -15,7 +15,7 @@
 
     h2 {
       @apply text-2xl;
-      @apply py-2;
+      @apply pt-6;
     }
 
     h3 {
