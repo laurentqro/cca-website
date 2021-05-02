@@ -1,99 +1,106 @@
 {{ define "main" }}
-<main class="px-5 min-h-screen">
-    <article>
-        <p class="text-gray-400 text-xl">
-            {{ .Params.categorie }}
-        </p>
+    <div class="flex">
+        <aside class="h-screen sticky top-4 w-1/3 text-sm">
+            <span class="text-gray-400">
+                {{ .Params.categorie }}
+            </span>
 
-        <h1 class="text-gray-200">{{ .Title }}</h1>
+            <h3 class="text-gray-200">{{ .Title }}</h3>
 
-        <dl class="flex flex-wrap divide-y divide-gray-500 my-5">
-            {{ with .Content }}
-            <div class="w-full flex-none flex items-baseline py-2">
-                <dt class="w-2/5 sm:w-1/3 flex-none tracking-wide">Description</dt>
-                <dd>{{ . }}</dd>
+            <dl class="flex flex-wrap divide-y divide-gray-500">
+                {{ with .Content }}
+                <div class="w-full flex-none flex items-baseline py-2">
+                    <dd>
+                        {{ . }}
+                    </dd>
+                </div>
+                {{end}}
+
+                {{ with .Params.type_projet }}
+                <div class="w-full flex-none flex items-baseline py-2">
+                    <dt class="w-2/5 sm:w-1/3 flex-none tracking-wide">
+                        Type de projet
+                    </dt>
+                    <dd class="px-2">
+                        {{ . }}
+                    </dd>
+                </div>
+                {{end}}
+
+                {{ with .Params.type_contrat }}
+                <div class="w-full flex-none flex items-baseline py-2">
+                    <dt class="w-2/5 sm:w-1/3 flex-none tracking-wide">
+                        Type de contrat
+                    </dt>
+                    <dd class="px-2">
+                        {{ . }}
+                    </dd>
+                </div>
+                {{end}}
+
+                {{ with .Params.localisation }}
+                <div class="w-full flex-none flex items-baseline py-2">
+                    <dt class="w-2/5 sm:w-1/3 flex-none tracking-wide">
+                        Localisation
+                    </dt>
+                    <dd class="px-2">
+                        {{ . }}
+                    </dd>
+                </div>
+                {{end}}
+
+                {{ with .Params.maitre_ouvrage }}
+                <div class="w-full flex-none flex items-baseline py-2">
+                    <dt class="w-2/5 sm:w-1/3 flex-none tracking-wide">
+                        Maître d'ouvrage
+                    </dt>
+                    <dd class="px-2"> 
+                        {{ . }}
+                    </dd>
+                </div>
+                {{end}}  
+
+                {{ with .Params.maitre_oeuvre }}
+                <div class="w-full flex-none flex items-baseline py-2">
+                    <dt class="w-2/5 sm:w-1/3 flex-none tracking-wide">
+                        Maître d'œuvre
+                    </dt>
+                    <dd class="px-2">
+                        {{ . }}
+                    </dd>
+                </div>
+                {{end}}
+
+                {{ with .Params.budget }}
+                <div class="w-full flex-none flex items-baseline py-2">
+                    <dt class="w-2/5 sm:w-1/3 flex-none tracking-wide">
+                        Budget
+                    </dt>
+                    <dd class="px-2">
+                        {{ . }}
+                    </dd>
+                </div>
+                {{end}}
+
+                {{ with .Params.surface }}
+                <div class="w-full flex-none flex items-baseline py-2">
+                    <dt class="w-2/5 sm:w-1/3 flex-none tracking-wide">
+                        Surface
+                    </dt>
+                    <dd class="px-2">
+                        {{ . }}
+                    </dd>
+                </div>
+                {{end}}
+            </dl>
+        </aside>
+
+        <main class="px-5 min-h-screen w-2/3">
+            {{ range $image_path := .Params.Images }}
+            <div class="border-2 border-gray-600 rounded-sm mb-4">
+                <img class="mx-auto" src="/images/projets/{{ $image_path }}" alt="{{ $image_path }}">
             </div>
-            {{end}}
-
-            {{ with .Params.type_projet }}
-            <div class="w-full flex-none flex items-baseline py-2">
-                <dt class="w-2/5 sm:w-1/3 flex-none tracking-wide">
-                    Type de projet
-                </dt>
-                <dd>
-                    {{ . }}
-                </dd>
-            </div>
-            {{end}}
-
-            {{ with .Params.type_contrat }}
-            <div class="w-full flex-none flex items-baseline py-2">
-                <dt class="w-2/5 sm:w-1/3 flex-none tracking-wide">
-                    Type de contrat
-                </dt>
-                <dd>
-                    {{ . }}
-                </dd>
-            </div>
-            {{end}}
-
-            {{ with .Params.localisation }}
-            <div class="w-full flex-none flex items-baseline py-2">
-                <dt class="w-2/5 sm:w-1/3 flex-none tracking-wide">
-                    Localisation
-                </dt>
-                <dd>
-                    {{ . }}
-                </dd>
-            </div>
-            {{end}}
-
-            {{ with .Params.maitre_ouvrage }}
-            <div class="w-full flex-none flex items-baseline py-2">
-                <dt class="w-2/5 sm:w-1/3 flex-none tracking-wide">
-                    Maître d'ouvrage
-                </dt>
-                <dd> 
-                    {{ . }}
-                </dd>
-            </div>
-            {{end}}  
-
-            {{ with .Params.maitre_oeuvre }}
-            <div class="w-full flex-none flex items-baseline py-2">
-                <dt class="w-2/5 sm:w-1/3 flex-none tracking-wide">
-                    Maître d'œuvre
-                </dt>
-                <dd>
-                    {{ . }}
-                </dd>
-            </div>
-            {{end}}
-
-            {{ with .Params.budget }}
-            <div class="w-full flex-none flex items-baseline py-2">
-                <dt class="w-2/5 sm:w-1/3 flex-none tracking-wide">
-                    Budget
-                </dt>
-                <dd>
-                    {{ . }}
-                </dd>
-            </div>
-            {{end}}
-
-            {{ with .Params.surface }}
-            <div class="w-full flex-none flex items-baseline py-2">
-                <dt class="w-2/5 sm:w-1/3 flex-none tracking-wide">Surface</dt>
-                <dd>{{ . }}</dd>
-            </div>
-            {{end}}
-        </dl>
-
-        {{ range $image_path := .Params.Images }}
-        <div class="border-2 border-gray-600 rounded-sm my-10">
-            <img class="mx-auto" src="/images/projets/{{ $image_path }}" alt="{{ $image_path }}">
-        </div>
-        {{ end }}
-    </article>
-</main>
+            {{ end }}
+        </main>
+    </div>
 {{ end }}
