@@ -97,7 +97,7 @@
 
         <main class="min-h-screen md:w-2/3 md:pb-12">
             {{ range $image_path := .Params.Images }}
-            <div class="border-2 border-gray-600 rounded-sm mb-4">
+            <div class="border border-gray-600 rounded-sm mb-4">
                 <img class="mx-auto" src="/images/projets/{{ $image_path }}" alt="{{ $image_path }}">
             </div>
             {{ end }}
