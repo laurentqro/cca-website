@@ -99,10 +99,17 @@
             <div class="my-4 text-center bg-gray-800 rounded p-4 hover:bg-gray-700">
               <a href="/documents/{{ $document_path }}" alt="{{ $document_path }}" download>
                 {{- partial "pdf-icon.html" . -}}
-                Télécharger la plaquette
+                Télécharger le prospectus du projet
               </a>
             </div>
             {{ end }}
+
+            <div class="mx-auto my-4 text-center bg-gray-800 rounded p-4 hover:bg-gray-700">
+              <a href="/documents/portfolio-cabinet-curau-architecte.zip" alt="portfolio cabinet Christian Curau Architecte" download>
+                {{- partial "zip-icon.html" . -}}
+                Télécharger tout le portfolio (~65 Mo)
+              </a>
+            </div>
         </aside>
 
         <main class="min-h-screen md:w-2/3">
