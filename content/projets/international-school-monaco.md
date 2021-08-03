@@ -13,6 +13,8 @@ images:
     - international-school-monaco-1.jpg
     - international-school-monaco-2.jpg
     - international-school-monaco-3.jpg
+documents:
+    - international-school-monaco.pdf
 draft: false
 ---
 Réalisation d'un complexe scolaire et création d'un pôle de restauration scolaire

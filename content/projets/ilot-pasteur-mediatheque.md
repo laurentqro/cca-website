@@ -15,5 +15,7 @@ images:
     - ilot-pasteur-mediatheque-3.jpg
     - ilot-pasteur-mediatheque-4.jpg
     - ilot-pasteur-mediatheque-5.jpg
+documents:
+    - ilot-pasteur-mediatheque.pdf
 draft: false
 ---

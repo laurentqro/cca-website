@@ -13,6 +13,9 @@ images:
     - villas-sporting-1.jpg
     - villas-sporting-2.jpg
     - villas-sporting-3.jpg
+documents:
+    - villas-sporting-1.pdf
+    - villas-sporting-2.pdf
 draft: false
 ---
 Construction de trois villas, leurs garages privatifs, leurs espaces de services

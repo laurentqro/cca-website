@@ -8,6 +8,7 @@
             <h3 class="text-gray-200">{{ .Title }}</h3>
 
             <dl class="flex flex-wrap divide-y divide-gray-500 pt-2">
+
                 {{ with .Content }}
                 <div class="w-full flex-none flex items-baseline pb-2">
                     <dd>
@@ -93,6 +94,15 @@
                 </div>
                 {{end}}
             </dl>
+
+            {{ range $document_path := .Params.Documents }}
+            <div class="my-4 text-center bg-gray-800 rounded p-4 hover:bg-gray-700">
+              <a href="/documents/{{ $document_path }}" alt="{{ $document_path }}" download>
+                {{- partial "pdf-icon.html" . -}}
+                Télécharger la plaquette
+              </a>
+            </div>
+            {{ end }}
         </aside>
 
         <main class="min-h-screen md:w-2/3">
