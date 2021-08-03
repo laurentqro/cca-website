@@ -22,5 +22,8 @@
     "url": "https://github.com/laurentqro/cca-website/issues"
   },
   "homepage": "https://github.com/laurentqro/cca-website#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "@tailwindcss/aspect-ratio": "^0.2.1"
+  }
 }

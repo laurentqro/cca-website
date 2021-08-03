@@ -15,6 +15,9 @@ images:
     - ilot-pasteur-3.jpg
 documents:
     - ilot-pasteur.pdf
+youtube_video_ids:
+    - lRXer9_t6qw
+
 draft: false
 ---
 * un collège de 1500 élèves
