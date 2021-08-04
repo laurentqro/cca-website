@@ -1,4 +1,5 @@
 ---
+weight: 6
 title: Villas du Sporting
 categorie: Architecture
 type_projet: Habitation

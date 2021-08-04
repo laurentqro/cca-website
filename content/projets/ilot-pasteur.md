@@ -1,4 +1,5 @@
 ---
+weight: 1
 title: Îlot Pasteur
 categorie: Architecture
 type_projet: Multi-fonctionnel

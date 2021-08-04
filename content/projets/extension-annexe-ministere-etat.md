@@ -1,4 +1,5 @@
 ---
+weight: 8
 title: Extension de l'annexe du ministère d'Etat
 categorie: Architecture
 type_projet: Concours

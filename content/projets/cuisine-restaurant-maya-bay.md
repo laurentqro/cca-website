@@ -1,4 +1,5 @@
 ---
+weight: 3
 title: Nouvelle cuisine du restaurant "Le Maya Bay"
 categorie: Architecture
 type_projet: Restaurant

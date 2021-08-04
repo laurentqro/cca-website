@@ -1,4 +1,5 @@
 ---
+weight: 9
 title: Véranda toîture-terrasse commerciale
 categorie: Architecture
 type_projet: Commerce

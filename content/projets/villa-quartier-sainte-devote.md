@@ -1,4 +1,5 @@
 ---
+weight: 7
 title: Villas Quartier Sainte Dévote
 categorie: Architecture
 type_projet: Habitation

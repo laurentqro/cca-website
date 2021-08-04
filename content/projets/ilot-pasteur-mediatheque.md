@@ -1,4 +1,5 @@
 ---
+weight: 2
 title: Médiathèque Îlot Pasteur
 categorie: Décoration
 type_projet: Médiathèque

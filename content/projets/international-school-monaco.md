@@ -1,4 +1,5 @@
 ---
+weight: 5
 title: International School of Monaco
 categorie: Architecture
 type_projet: Etablissement d'enseignement
