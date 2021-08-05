@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: cca-website
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: cca-website
+  template:
+    metadata:
+      labels:
+        app: cca-website
+    spec:
+      containers:
+      - name: cca-website
+        image: laurentqro/cca_website:v1
+      imagePullSecrets:
+      - name: regcred
