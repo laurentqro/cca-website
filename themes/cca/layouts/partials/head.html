@@ -8,7 +8,7 @@
     {{ if .IsHome }}{{ $title = .Site.Title }}{{ end }}
     {{ if .IsHome }}{{ $description = .Site.Params.Description }}{{ end }}
 
-    {{ $styles := resources.Get "css/styles.scss" | toCSS | postCSS (dict "config" "./assets/css/postcss.config.js") }}
+    {{ $styles := resources.Get "css/styles.css" | toCSS | postCSS (dict "config" "./assets/css/postcss.config.js") }}
 
     {{ if hugo.IsProduction }}
       <link rel="stylesheet" href="{{ $styles.RelPermalink }}">

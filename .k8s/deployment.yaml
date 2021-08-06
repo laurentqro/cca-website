@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: cca-website
-        image: laurentqro/cca_website:v1
+        image: <IMAGE>
       imagePullSecrets:
       - name: regcred
