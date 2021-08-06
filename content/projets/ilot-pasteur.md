@@ -1,6 +1,7 @@
 ---
 weight: 1
 title: Îlot Pasteur
+description: Mission complète de maîtrise d'œuvre avec démarche Haute qualité Environnementale (HQE), Avenue de Fontvieille, Monaco.
 categorie: Architecture
 type_projet: Multi-fonctionnel
 type_contrat: Mission complète de maîtrise d'œuvre avec démarche Haute qualité Environnementale (HQE).

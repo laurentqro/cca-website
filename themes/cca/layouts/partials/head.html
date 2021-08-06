@@ -1,13 +1,15 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    
+
     {{ $title := print .Site.Title " | " .Title }}
+    {{ $description := print .Description }}
 
     {{ if .IsHome }}{{ $title = .Site.Title }}{{ end }}
+    {{ if .IsHome }}{{ $description = .Site.Params.Description }}{{ end }}
 
     {{ $styles := resources.Get "css/styles.scss" | toCSS | postCSS (dict "config" "./assets/css/postcss.config.js") }}
-    
+
     {{ if hugo.IsProduction }}
       <link rel="stylesheet" href="{{ $styles.RelPermalink }}">
     {{ else }}
@@ -16,4 +18,5 @@
     {{ end }}
 
     <title>{{ $title }}</title>
+    <meta name="description" content="{{ $description }}" />
 </head>

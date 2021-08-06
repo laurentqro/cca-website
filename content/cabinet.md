@@ -1,3 +1,6 @@
+---
+title: Le Cabinet
+---
 Fondé en 1984 par Christian Curau, diplomé par le gouvernement français la même année, le cabinet se situe au coeur de la Principauté, sur le boulevard des Moulins.
 
 Il se compose d'une équipe de collaborateurs capables d'assurer l'étude et la réalisation de programmes immobiliers d'envergure.
