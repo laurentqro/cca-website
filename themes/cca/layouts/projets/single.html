@@ -96,19 +96,21 @@
             </dl>
 
             {{ range $document_path := .Params.Documents }}
-            <div class="my-4 text-xs text-center bg-gray-800 rounded p-4 hover:bg-gray-700">
-              <a href="/documents/{{ $document_path }}" alt="{{ $document_path }}" download>
-                {{- partial "pdf-icon.html" . -}}
-                Télécharger le prospectus du projet
-              </a>
-            </div>
-            {{ end }}
+            <div class="flex justify-between w-full text-xs bg-gray-800 rounded mt-4">
+              <div class="m-4 text-center p-4 hover:bg-gray-700 rounded">
+                <a href="/documents/{{ $document_path }}" alt="{{ $document_path }}" download>
+                  {{- partial "pdf-icon.html" . -}}
+                  Fiche du projet
+                </a>
+              </div>
+              {{ end }}
 
-            <div class="my-4 text-xs text-center bg-gray-800 rounded p-4 hover:bg-gray-700">
-              <a href="/documents/portfolio-cabinet-curau-architecte.zip" alt="portfolio cabinet Christian Curau Architecte" download>
-                {{- partial "zip-icon.html" . -}}
-                Télécharger tout le portfolio (~65 Mo)
-              </a>
+              <div class="m-4 text-center p-4 hover:bg-gray-700 rounded">
+                <a href="/documents/portfolio-cabinet-curau-architecte.zip" alt="portfolio cabinet Christian Curau Architecte" download>
+                  {{- partial "zip-icon.html" . -}}
+                  Portfolio (~65 Mo)
+                </a>
+              </div>
             </div>
         </aside>
 
