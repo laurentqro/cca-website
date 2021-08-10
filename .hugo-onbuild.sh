@@ -1,4 +1,4 @@
 #!/bin/bash
 
 yarn install
-hugo
+hugo --minify
