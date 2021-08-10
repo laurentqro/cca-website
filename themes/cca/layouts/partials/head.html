@@ -1,22 +1,55 @@
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    {{ $title := print .Site.Title " | " .Title }}
-    {{ $description := print .Description }}
+  {{ $title := print .Site.Title " | " .Title }}
+  {{ $description := print .Description }}
 
-    {{ if .IsHome }}{{ $title = .Site.Title }}{{ end }}
-    {{ if .IsHome }}{{ $description = .Site.Params.Description }}{{ end }}
+  {{ if .IsHome }}{{ $title = .Site.Title }}{{ end }}
+  {{ if .IsHome }}{{ $description = .Site.Params.Description }}{{ end }}
 
-    {{ $styles := resources.Get "css/styles.css" | toCSS | postCSS (dict "config" "./assets/css/postcss.config.js") }}
+  {{ $styles := resources.Get "css/styles.css" | toCSS | postCSS (dict "config" "./assets/css/postcss.config.js") }}
 
-    {{ if hugo.IsProduction }}
-      <link rel="stylesheet" href="{{ $styles.RelPermalink }}">
-    {{ else }}
-      {{ $styles := $styles | minify | fingerprint | resources.PostProcess }}
-      <link rel="stylesheet" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}">
-    {{ end }}
+  {{ if hugo.IsProduction }}
+  <link rel="stylesheet" href="{{ $styles.RelPermalink }}">
+  {{ else }}
+  {{ $styles := $styles | minify | fingerprint | resources.PostProcess }}
+  <link rel="stylesheet" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}">
+  {{ end }}
 
-    <title>{{ $title }}</title>
-    <meta name="description" content="{{ $description }}" />
+  <title>{{ $title }}</title>
+  <meta name="description" content="{{ $description }}" />
+
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Le Cabinet",
+          "item": "https://cca-mc.com/cabinet"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Projets",
+          "item": "https://cca-mc.com/projets"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Ilot Pasteur",
+          "item": "https://cca-mc.com/projets/ilot-pasteur"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Contact",
+          "item": "https://cca-mc.com/contact"
+        }
+      ]
+    }
+  </script>
 </head>
