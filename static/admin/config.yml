@@ -18,6 +18,7 @@ collections:
       - label: "Ordre d'affichage"
         name: "weight"
         widget: "number"
+        optional: true
       - label: "Categorie"
         name: "categorie"
         widget: "select"
@@ -35,6 +36,7 @@ collections:
         widget: "string"
       - label: "Maitre d'ouvrage"
         name: "maitre_ouvrage"
+        optional: true
         widget: "string"
       - label: "Budget"
         name: "budget"
@@ -45,6 +47,7 @@ collections:
       - label: "Année de livraison"
         name: "date_livraison"
         widget: "string"
+        optional: true
       - label: "Date de publication"
         name: "date"
         widget: "date"
