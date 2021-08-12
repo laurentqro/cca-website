@@ -17,9 +17,9 @@ collections:
         widget: "string"
       - label: "Ordre d'affichage"
         name: "weight"
-        widget: "string"
+        widget: "number"
       - label: "Categorie"
-        name: "category"
+        name: "categorie"
         widget: "select"
         options: ["Architecture", "Décoration"]
       - label: "Type de projet"
@@ -54,7 +54,7 @@ collections:
       - label: "Article"
         name: "body"
         widget: "markdown"
-      - label: "Gallery"
+      - label: "Images"
         name: "images"
         widget: "list"
         collapsed: false
