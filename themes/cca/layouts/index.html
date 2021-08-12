@@ -3,7 +3,7 @@
       {{ with .Site.GetPage "projets" }}
           {{ range .Pages.ByWeight }}
             {{ $vignette := index (.Params.images) 0 }}
-              <a href="{{ .Permalink }}" class="border border-gray-600 bg-auto bg-no-repeat bg-center h-80 cursor-pointer" style="background-image: url(/images/projets/{{$vignette}})">
+              <a href="{{ .Permalink }}" class="border border-gray-600 bg-auto bg-no-repeat bg-center h-80 cursor-pointer" style="background-image: url(/media/uploads/{{$vignette}})">
                 <h3 class="bg-gray-900 bg-opacity-75 p-5 text-center">
                   {{ .Title }}
                 </h3>
