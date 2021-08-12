@@ -1,18 +1,64 @@
 backend:
   name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
-media_folder: static/img
-public_folder: /img
+media_folder: "static/media/uploads"
+public_folder: "/media/uploads"
 collections:
-  - name: 'projet'
-    label: 'Projet'
-    folder: 'content/projects'
+  - name: "projet"
+    label: "Projet"
+    folder: "content/projets"
     create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     editor:
       preview: false
     fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Date de publication', name: 'date', widget: 'datetime' }
-      - { label: 'Description', name: 'description', widget: 'string' }
-      - { label: 'Article', name: 'body', widget: 'markdown' }
+      - label: "Title"
+        name: "title"
+        widget: "string"
+      - label: "Categorie"
+        name: "category"
+        widget: "select"
+        options: ["Architecture", "Décoration"]
+      - label: "Type de projet"
+        name: "type_projet"
+        widget: "select"
+        options: ["Bureaux", "Concours", "Commerce", "Ecole", "Garage", "Habitation", "Héliport", "Médiathèque", "Restaurant"]
+      - label: "Type de contrat"
+        name: "type_contrat"
+        widget: "select"
+        options: ["Mission complète de maîtrise d'œuvre"]
+      - label: "Localisation"
+        name: "localistation"
+      - label: "Maitre d'ouvrage"
+        name: "maitre_ouvrage"
+        widget: "string"
+      - label: "Budget"
+        name: "budget"
+        widget: "string"
+      - label: "Surface"
+        name: "surface"
+        widget: "string"
+      - label: "Année de livraison"
+        name: "date_livraison"
+        widget: "string"
+      - label: "Date de publication"
+        name: "date"
+        widget: "date"
+      - label: "Description"
+        name: "description"
+        widget: "text"
+      - label: "Article"
+        name: "body"
+        widget: "markdown"
+      - label: "Images"
+        name: "images"
+        widget: "list"
+        fields:
+          - label: "Images"
+            name: "images"
+            widget: "image"
+            choose_url: false
+            media_folder: "/static/media/uploads"
+            media_library:
+              config:
+                multiple: true
