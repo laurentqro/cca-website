@@ -1,22 +1,26 @@
 ---
+localisation: Avenue d'Ostende, Monaco
+date_livraison: 2013
+draft: false
 title: Avenue d'Ostende
-categorie: Décoration
+weight: "15"
+category: Décoration
 type_projet: Habitation
 type_contrat: Mission complète de maîtrise d'œuvre
-localisation: Avenue d'Ostende, Monaco
 maitre_ouvrage: Privé
-maitre_oeuvre: Architecte Christian Curau
 budget: 750 000 euros HT
 surface: 180 mètres carrés
-date_livraison: 2013
+date: 2021-08-12T17:07:40.504Z
+maitre_oeuvre: Architecte Christian Curau
+categorie: Décoration
+description: Test
 images:
-    - avenue-ostende-1.jpg
-    - avenue-ostende-2.jpg
-    - avenue-ostende-3.jpg
-    - avenue-ostende-4.jpg
-    - avenue-ostende-5.jpg
+  - avenue-ostende-1.jpg
+  - avenue-ostende-2.jpg
+  - avenue-ostende-3.jpg
+  - avenue-ostende-4.jpg
+  - avenue-ostende-5.jpg
 documents:
-    - avenue-ostende.pdf
-draft: false
+  - avenue-ostende.pdf
 ---
 Travaux de réaménagement d'intérieur
