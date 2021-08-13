@@ -1,7 +1,7 @@
 backend:
   name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
-  publish_mode: editorial_workflow
+publish_mode: editorial_workflow
 site_url: "https://cca-mc.com"
 logo_url: "https://cca-mc.com/media/images/logo.png"
 media_folder: "static/media/uploads"
@@ -14,8 +14,6 @@ collections:
     create: true
     slug: "{{slug}}"
     sortable_fields: ["title", "weight"]
-    editor:
-      preview: true
     preview_path: "projets/{{slug}}"
     fields:
       - label: "Titre"
