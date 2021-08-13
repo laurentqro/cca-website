@@ -13,6 +13,8 @@ date: 2021-08-13T17:12:27.322Z
 images:
   - images/avenue-ostende-1.jpg
   - images/avenue-saint-laurent-architecture.jpg
+fiches:
+  - fiches/avenue-ostende.pdf
 ---
 ### Îlot Gastor
 
