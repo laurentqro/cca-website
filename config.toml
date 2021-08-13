@@ -2,7 +2,6 @@ languageCode = "fr-fr"
 title = "Christian Curau Architecte - CCA"
 theme = "cca"
 staticDir = "static"
-baseURL = "https://cca-mc.com/"
 disableKinds = ['taxonomy', 'term', 'category']
 [params]
   Description = "Cabinet d'architecte à Monaco: étude et la réalisation de projets immobiliers de grande envergure."
