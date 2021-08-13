@@ -5,6 +5,7 @@ publish_mode: editorial_workflow
 site_url: "https://cca-mc.com"
 logo_url: "https://cca-mc.com/media/images/logo.png"
 media_folder: "static/media/uploads"
+public_folder: "media/uploads"
 slug:
   clean_accents: true
 collections:
