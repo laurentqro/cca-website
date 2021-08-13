@@ -1,26 +1,28 @@
 ---
-weight: 1
 title: Îlot Pasteur
-description: Mission complète de maîtrise d'œuvre avec démarche Haute qualité Environnementale (HQE), Avenue de Fontvieille, Monaco.
+description: Mission complète de maîtrise d'œuvre avec démarche Haute qualité
+  Environnementale (HQE), Avenue de Fontvieille, Monaco.
+localisation: Avenue de Fontvieille, Monaco
+date_livraison: 2024
+draft: false
+weight: 1
 categorie: Architecture
 type_projet: Multi-fonctionnel
-type_contrat: Mission complète de maîtrise d'œuvre avec démarche Haute qualité Environnementale (HQE).
-localisation: Avenue de Fontvieille, Monaco
+type_contrat: Mission complète de maîtrise d'œuvre avec démarche Haute qualité
+  Environnementale (HQE).
 maitre_ouvrage: Principauté de Monaco
-maitre_oeuvre: Architectes Christian Curau et Francois Lallemand
 budget: 247 450 000 euros HT
 surface: 100 000 mètres carrés SHOB
-date_livraison: 2024
-images:
-    - images/ilot-pasteur-1.jpg
-    - images/ilot-pasteur-2.jpg
-    - images/ilot-pasteur-3.jpg
+date: 2021-08-13T15:38:24.623Z
 fiches:
-    - fiches/ilot-pasteur.pdf
+  - fiches/ilot-pasteur.pdf
+maitre_oeuvre: Architectes Christian Curau et Francois Lallemand
+images:
+  - images/ilot-pasteur-1.jpg
+  - images/ilot-pasteur-2.jpg
+  - images/ilot-pasteur-3.jpg
 youtube_video_ids:
-    - lRXer9_t6qw
-
-draft: false
+  - lRXer9_t6qw
 ---
 * un collège de 1500 élèves
 * un gymnase et amphithéâtre
