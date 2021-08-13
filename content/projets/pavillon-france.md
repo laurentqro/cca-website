@@ -10,10 +10,10 @@ budget: 1 700 000 euros HT
 surface: 500 mètres carrés SHOB
 date_livraison: 2019
 images:
-    - pavillon-france-1.jpg
-    - pavillon-france-2.jpg
+    - images/pavillon-france-1.jpg
+    - images/pavillon-france-2.jpg
 fiches:
-    - pavillon-france.pdf
+    - fiches/pavillon-france.pdf
 draft: false
 ---
 Construction d'un immeuble en R + 4

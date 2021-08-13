@@ -11,10 +11,10 @@ budget: 350 000 euros HT
 surface: 80 mètres carrés
 date_livraison:
 images:
-    - veranda-caffe-milano-1.jpg
-    - veranda-caffe-milano-2.jpg
+    - images/veranda-caffe-milano-1.jpg
+    - images/veranda-caffe-milano-2.jpg
 fiches:
-    - veranda-caffe-milano.pdf
+    - fiches/veranda-caffe-milano.pdf
 draft: false
 ---
 Modification de la toîture de la véranda existante en une nouvelle véranda avec sa toîture-terrasse commerciale

@@ -10,11 +10,11 @@ budget:
 surface:
 date_livraison:
 images:
-    - entrecasteaux-1.jpg
-    - entrecasteaux-2.jpg
-    - entrecasteaux-3.jpg
+    - images/entrecasteaux-1.jpg
+    - images/entrecasteaux-2.jpg
+    - images/entrecasteaux-3.jpg
 fiches:
-    - entrecasteaux.pdf
+    - fiches/entrecasteaux.pdf
 draft: false
 ---
 Travaux de réaménagement intérieur des corps de ferme d'un domaine viticole.

@@ -10,9 +10,9 @@ budget: 2 000 000 euros HT
 surface: 600 mètres carrés
 date_livraison: 2021
 images:
-    - avenue-saint-laurent-architecture.jpg
+    - images/avenue-saint-laurent-architecture.jpg
 fiches:
-    - avenue-saint-laurent-architecture.pdf
+    - fiches/avenue-saint-laurent-architecture.pdf
 draft: false
 ---
 Surélévation et transformation d'un immeuble avec création de deux logements

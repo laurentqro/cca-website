@@ -15,12 +15,12 @@ maitre_oeuvre: Architecte Christian Curau
 categorie: Décoration
 description: Test
 images:
-  - avenue-ostende-1.jpg
-  - avenue-ostende-2.jpg
-  - avenue-ostende-3.jpg
-  - avenue-ostende-4.jpg
-  - avenue-ostende-5.jpg
+  - images/avenue-ostende-1.jpg
+  - images/avenue-ostende-2.jpg
+  - images/avenue-ostende-3.jpg
+  - images/avenue-ostende-4.jpg
+  - images/avenue-ostende-5.jpg
 fiches:
-  - avenue-ostende.pdf
+  - fiches/avenue-ostende.pdf
 ---
 Travaux de réaménagement d'intérieur

@@ -11,13 +11,13 @@ budget: 29 000 000 euros HT
 surface: 10 000 mètres carrés
 date_livraison:
 images:
-    - heliport-monaco-1.jpg
-    - heliport-monaco-2.jpg
-    - heliport-monaco-3.jpg
-    - heliport-monaco-4.jpg
-    - heliport-monaco-5.jpg
+    - images/heliport-monaco-1.jpg
+    - images/heliport-monaco-2.jpg
+    - images/heliport-monaco-3.jpg
+    - images/heliport-monaco-4.jpg
+    - images/heliport-monaco-5.jpg
 fiches:
-    - heliport-monaco.pdf
+    - fiches/heliport-monaco.pdf
 draft: false
 ---
 Démolition par phases des existants, réalisation d'un corps de bâtiments neufs comprenant en rez-de-chaussée des aires de stationnement d'hélicoptères, l'héligare et les bureaux des compagnies aériennes ainsi que des bureaux

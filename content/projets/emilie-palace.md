@@ -10,12 +10,12 @@ budget: 1 900 000 euros HT
 surface: 180 mètres carrés
 date_livraison: 2015
 images:
-    - emilie-palace-1.jpg
-    - emilie-palace-2.jpg
-    - emilie-palace-3.jpg
-    - emilie-palace-4.jpg
+    - images/emilie-palace-1.jpg
+    - images/emilie-palace-2.jpg
+    - images/emilie-palace-3.jpg
+    - images/emilie-palace-4.jpg
 fiches:
-    - emilie-palace.pdf
+    - fiches/emilie-palace.pdf
 draft: false
 ---
 Travaux de réaménagement intérieurs de deux appartements en un

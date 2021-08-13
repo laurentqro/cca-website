@@ -11,11 +11,11 @@ budget: 1 430 000 euros HT
 surface: 200 mètres carrés SHOB
 date_livraison: 2021
 images:
-    - cuisine-restaurant-maya-bay-1.jpg
-    - cuisine-restaurant-maya-bay-2.jpg
-    - cuisine-restaurant-maya-bay-3.jpg
+    - images/cuisine-restaurant-maya-bay-1.jpg
+    - images/cuisine-restaurant-maya-bay-2.jpg
+    - images/cuisine-restaurant-maya-bay-3.jpg
 fiches:
-    - cuisine-restaurant-maya-bay.pdf
+    - fiches/cuisine-restaurant-maya-bay.pdf
 draft: false
 ---
 Création du bâti abritant la nouvelle cuisine du restaurant Le Maya Bay

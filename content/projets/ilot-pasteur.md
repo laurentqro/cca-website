@@ -12,11 +12,11 @@ budget: 247 450 000 euros HT
 surface: 100 000 mètres carrés SHOB
 date_livraison: 2024
 images:
-    - ilot-pasteur-1.jpg
-    - ilot-pasteur-2.jpg
-    - ilot-pasteur-3.jpg
+    - images/ilot-pasteur-1.jpg
+    - images/ilot-pasteur-2.jpg
+    - images/ilot-pasteur-3.jpg
 fiches:
-    - ilot-pasteur.pdf
+    - fiches/ilot-pasteur.pdf
 youtube_video_ids:
     - lRXer9_t6qw
 

@@ -10,10 +10,10 @@ budget: 1 700 000 euros HT
 surface:
 date_livraison: 2019
 images:
-    - villa-bruyeres-1.jpg
-    - villa-bruyeres-2.jpg
+    - images/villa-bruyeres-1.jpg
+    - images/villa-bruyeres-2.jpg
 fiches:
-    - villa-bruyeres.pdf
+    - fiches/villa-bruyeres.pdf
 draft: false
 ---
 Couverture de l'entrée d'un garage. Création d'un portique avec trois finitions de métal avec insertion de cordons lumineux LED

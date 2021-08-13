@@ -10,11 +10,11 @@ budget: 2 000 000 euros HT
 surface: 600 mètres carrés
 date_livraison:
 images:
-    - avenue-saint-laurent-decoration-1.jpg
-    - avenue-saint-laurent-decoration-2.jpg
-    - avenue-saint-laurent-decoration-3.jpg
+    - images/avenue-saint-laurent-decoration-1.jpg
+    - images/avenue-saint-laurent-decoration-2.jpg
+    - images/avenue-saint-laurent-decoration-3.jpg
 fiches:
-     - avenue-saint-laurent-decoration.pdf
+     - fiches/avenue-saint-laurent-decoration.pdf
 draft: false
 ---
 Surélévation et transformation d'un immeuble avec création de deux appartements

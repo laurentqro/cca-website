@@ -10,11 +10,11 @@ budget:
 surface:
 date_livraison:
 images:
-    - avenue-saint-laurent-garage-1.jpg
-    - avenue-saint-laurent-garage-2.jpg
-    - avenue-saint-laurent-garage-3.jpg
+    - images/avenue-saint-laurent-garage-1.jpg
+    - images/avenue-saint-laurent-garage-2.jpg
+    - images/avenue-saint-laurent-garage-3.jpg
 fiches:
-    - avenue-saint-laurent-garage.pdf
+    - fiches/avenue-saint-laurent-garage.pdf
 draft: false
 ---
 Réaménagement d'un garage avec création d'un ascenseur pour automobile
