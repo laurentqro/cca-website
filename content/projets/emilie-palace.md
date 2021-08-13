@@ -1,21 +1,24 @@
 ---
 title: Emilie Palace
-categorie: Decoration
+localisation: Emilie Palace, Avenue Princesse Grace, Monaco
+date_livraison: 2015
+draft: false
+description: Travaux de réaménagement intérieurs de deux appartements en un,
+  dans l'immeuble Emilie Palace à Monaco.
+categorie: Décoration
 type_projet: Habitation
 type_contrat: Mission complète de maîtrise d'œuvre
-localisation: Emilie Palace, Avenue Princesse Grace, Monaco
 maitre_ouvrage: Privé
-maitre_oeuvre: Architecte Christian Curau
 budget: 1 900 000 euros HT
 surface: 180 mètres carrés
-date_livraison: 2015
-images:
-    - images/emilie-palace-1.jpg
-    - images/emilie-palace-2.jpg
-    - images/emilie-palace-3.jpg
-    - images/emilie-palace-4.jpg
+date: 2021-08-13T16:02:35.775Z
 fiches:
-    - fiches/emilie-palace.pdf
-draft: false
+  - fiches/emilie-palace.pdf
+maitre_oeuvre: Architecte Christian Curau
+images:
+  - images/emilie-palace-1.jpg
+  - images/emilie-palace-2.jpg
+  - images/emilie-palace-3.jpg
+  - images/emilie-palace-4.jpg
 ---
-Travaux de réaménagement intérieurs de deux appartements en un
+Travaux de réaménagement intérieurs de deux appartements en un seul.
