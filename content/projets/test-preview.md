@@ -5,5 +5,7 @@ categorie: Architecture
 type_projet: Bureaux
 localisation: asdf
 date: 2021-08-13T17:12:27.322Z
+images:
+  - images/avenue-ostende-1.jpg
 ---
 adsf
