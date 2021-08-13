@@ -19,4 +19,4 @@ maitre_oeuvre: Architecte Christian Curau
 images:
   - images/avenue-saint-laurent-architecture.jpg
 ---
-Surélévation et transformation d'un immeuble avec création de deux logements
+Surélévation et transformation d'un immeuble avec création de deux logements.
