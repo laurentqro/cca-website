@@ -54,9 +54,11 @@ collections:
       - label: "Budget"
         name: "budget"
         widget: "string"
+        required: false
       - label: "Surface"
         name: "surface"
         widget: "string"
+        required: false
       - label: "Année de livraison"
         name: "date_livraison"
         widget: "string"
