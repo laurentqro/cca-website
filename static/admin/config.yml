@@ -73,14 +73,14 @@ collections:
     files:
       - label: "Le Cabinet"
         name: "cabinet"
-        file: "site/content/cabinet.md"
+        file: "content/cabinet.md"
         fields:
           - label: "Corps de page"
             name: "body"
             widget: "markdown"
       - label: "Contact"
         name: "contact"
-        file: "site/content/contact/_index.md"
+        file: "content/contact/_index.md"
         fields:
           - label: "Téléphone"
             name: "phone"
