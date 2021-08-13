@@ -9,7 +9,7 @@ collections:
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     editor:
-      preview: true
+      preview: false
     fields:
       - label: "Titre"
         name: "title"
