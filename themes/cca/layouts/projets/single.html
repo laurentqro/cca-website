@@ -98,7 +98,7 @@
             {{ range $document_path := .Params.Fiches }}
             <div class="flex justify-between w-full text-xs bg-gray-800 rounded mt-4">
               <div class="m-4 text-center p-4 hover:bg-gray-700 rounded">
-                <a href="/media/uploads/files/{{ $document_path }}" alt="{{ $document_path }}" download>
+                <a href="/projets/{{ $document_path }}" alt="{{ $document_path }}" download>
                   {{- partial "pdf-icon.html" . -}}
                   Fiche du projet
                 </a>
@@ -106,7 +106,7 @@
               {{ end }}
 
               <div class="m-4 text-center p-4 hover:bg-gray-700 rounded">
-                <a href="/media/uploads/files/portfolio-cabinet-curau-architecte.zip" alt="portfolio cabinet Christian Curau Architecte" download>
+                <a href="/projets/fiches/portfolio-cabinet-curau-architecte.zip" alt="portfolio cabinet Christian Curau Architecte" download>
                   {{- partial "zip-icon.html" . -}}
                   Portfolio (~65 Mo)
                 </a>
@@ -130,7 +130,7 @@
 
             {{ range $image_path := .Params.Images }}
             <div class="border border-gray-600 rounded-sm mb-4">
-                <img class="mx-auto" src="/media/uploads/images/{{ $image_path }}" alt="{{ $image_path }}">
+                <img class="mx-auto" src="/projets/{{ $image_path }}" alt="{{ $image_path }}">
             </div>
             {{ end }}
         </main>
