@@ -1,17 +1,18 @@
 backend:
   name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
-site_url: https://cca-mc.com
-logo_url: https://cca-mc.com/media/images/logo.png
-locale: 'fr'
+site_url: "https://cca-mc.com"
+logo_url: "https://cca-mc.com/media/images/logo.png"
+locale: "fr"
 media_folder: "static/media/uploads"
+slug:
+  clean_accents: true
 collections:
   - name: "projet"
     label: "Projet"
     folder: "content/projets"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-      clean_accents: true
     sortable_fields: ["title", "weight"]
     editor:
       preview: true
