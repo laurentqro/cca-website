@@ -95,10 +95,10 @@
                 {{end}}
             </dl>
 
-            {{ range $document_path := .Params.Documents }}
+            {{ range $document_path := .Params.Fiches }}
             <div class="flex justify-between w-full text-xs bg-gray-800 rounded mt-4">
               <div class="m-4 text-center p-4 hover:bg-gray-700 rounded">
-                <a href="/documents/{{ $document_path }}" alt="{{ $document_path }}" download>
+                <a href="/media/uploads/files/{{ $document_path }}" alt="{{ $document_path }}" download>
                   {{- partial "pdf-icon.html" . -}}
                   Fiche du projet
                 </a>
@@ -130,7 +130,7 @@
 
             {{ range $image_path := .Params.Images }}
             <div class="border border-gray-600 rounded-sm mb-4">
-                <img class="mx-auto" src="/media/uploads/{{ $image_path }}" alt="{{ $image_path }}">
+                <img class="mx-auto" src="/media/uploads/images/{{ $image_path }}" alt="{{ $image_path }}">
             </div>
             {{ end }}
         </main>
