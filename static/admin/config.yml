@@ -12,8 +12,7 @@ collections:
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
       clean_accents: true
-    sortable_fields: ["title", "weight", "commit_date"]
-    summary: "{{ title }} - (date de mise à jour: {{commit_date}})"
+    sortable_fields: ["title", "weight"]
     editor:
       preview: true
     fields:
