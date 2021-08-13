@@ -63,7 +63,7 @@ collections:
         collapsed: false
         summary: '{{fields.image}}'
         field: {label: Image, name: image, widget: image, media_folder: "/static/media/uploads/images", choose_url: false}
-      - label: "Fiches du projet"
+      - label: "Fiches"
         name: "fiches"
         widget: "list"
         collapsed: false
