@@ -62,10 +62,10 @@ collections:
         widget: "list"
         collapsed: false
         summary: '{{fields.image}}'
-        field: {label: Image, name: image, widget: image, media_folder: "/static/media/uploads/images", choose_url: false}
+        field: {label: Image, name: image, widget: image, media_folder: "images", choose_url: false}
       - label: "Fiches"
         name: "fiches"
         widget: "list"
         collapsed: false
         summary: '{{fields.fiche}}'
-        field: {label: Fiche, name: fiche, widget: file, media_folder: "/static/media/uploads/files", choose_url: false}
+        field: {label: Fiche, name: fiche, widget: file, media_folder: "files", choose_url: false}
