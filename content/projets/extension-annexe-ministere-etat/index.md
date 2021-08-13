@@ -14,12 +14,12 @@ budget: 2 500 000 euros HT (option A) / 8 000 000 euros HT (option B)
 surface: 400 mètres carrés (option A) / 750 mètres carrés (option B)
 date: 2021-08-13T15:52:44.418Z
 fiches:
-  - fiches/extension-ministere-etat.pdf
+  - extension-ministere-etat.pdf
 maitre_oeuvre: Architecte Christian Curau
 images:
-  - images/extension-ministere-etat-1.jpg
-  - images/extension-ministere-etat-2.jpg
-  - images/extension-ministere-etat-3.jpg
-  - images/extension-ministere-etat-4.jpg
+  - extension-ministere-etat-1.jpg
+  - extension-ministere-etat-2.jpg
+  - extension-ministere-etat-3.jpg
+  - extension-ministere-etat-4.jpg
 ---
 Dans le cadre d'un concours d'idées pour l'extension de l'annexe du Ministère d'Etat de la Principauté de Monaco, deux options étaient à illustrer pour répondre au mieux aux programmes: par la fonctionnalité des espaces, par la qualité architecturale, urbanistique et environnementale, par la réponse à l'organisation générale propre au ministère, par la réflexion concernant l'impact du chantier sur le fonctionnement des deux corps de bâtiments existants.

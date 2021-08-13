@@ -14,11 +14,11 @@ budget: 1 430 000 euros HT
 surface: 200 mètres carrés SHOB
 date: 2021-08-13T15:47:55.691Z
 fiches:
-  - fiches/cuisine-restaurant-maya-bay.pdf
+  - cuisine-restaurant-maya-bay.pdf
 maitre_oeuvre: Architecte Christian Curau
 images:
-  - images/cuisine-restaurant-maya-bay-1.jpg
-  - images/cuisine-restaurant-maya-bay-2.jpg
-  - images/cuisine-restaurant-maya-bay-3.jpg
+  - cuisine-restaurant-maya-bay-1.jpg
+  - cuisine-restaurant-maya-bay-2.jpg
+  - cuisine-restaurant-maya-bay-3.jpg
 ---
 Création du bâti abritant la nouvelle cuisine du restaurant Le Maya Bay

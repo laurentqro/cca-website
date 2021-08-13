@@ -14,11 +14,11 @@ budget: 6 100 000 euros HT
 surface: 1200 mètres carrés SHOB
 date: 2021-08-13T15:49:26.838Z
 fiches:
-  - fiches/international-school-monaco.pdf
+  - international-school-monaco.pdf
 maitre_oeuvre: Architecte Christian Curau
 images:
-  - images/international-school-monaco-1.jpg
-  - images/international-school-monaco-2.jpg
-  - images/international-school-monaco-3.jpg
+  - international-school-monaco-1.jpg
+  - international-school-monaco-2.jpg
+  - international-school-monaco-3.jpg
 ---
 Réalisation d'un complexe scolaire et création d'un pôle de restauration scolaire.

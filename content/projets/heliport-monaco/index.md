@@ -16,13 +16,13 @@ budget: 29 000 000 euros HT
 surface: 10 000 mètres carrés
 date: 2021-08-13T15:48:27.194Z
 fiches:
-  - fiches/heliport-monaco.pdf
+  - heliport-monaco.pdf
 maitre_oeuvre: Architecte Christian Curau
 images:
-  - images/heliport-monaco-1.jpg
-  - images/heliport-monaco-2.jpg
-  - images/heliport-monaco-3.jpg
-  - images/heliport-monaco-4.jpg
-  - images/heliport-monaco-5.jpg
+  - heliport-monaco-1.jpg
+  - heliport-monaco-2.jpg
+  - heliport-monaco-3.jpg
+  - heliport-monaco-4.jpg
+  - heliport-monaco-5.jpg
 ---
 Démolition par phases des existants, réalisation d'un corps de bâtiments neufs comprenant en rez-de-chaussée des aires de stationnement d'hélicoptères, l'héligare et les bureaux des compagnies aériennes ainsi que des bureaux.

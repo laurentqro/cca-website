@@ -15,10 +15,10 @@ budget: 350 000 euros HT
 surface: 80 mètres carrés
 date: 2021-08-13T15:55:16.262Z
 fiches:
-  - fiches/veranda-caffe-milano.pdf
+  - veranda-caffe-milano.pdf
 maitre_oeuvre: Architecte Christian Curau
 images:
-  - images/veranda-caffe-milano-1.jpg
-  - images/veranda-caffe-milano-2.jpg
+  - veranda-caffe-milano-1.jpg
+  - veranda-caffe-milano-2.jpg
 ---
 Modification de la toîture de la véranda existante en une nouvelle véranda avec sa toîture-terrasse commerciale.

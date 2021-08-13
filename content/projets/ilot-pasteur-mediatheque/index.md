@@ -16,13 +16,13 @@ budget: 247 450 000 euros HT
 surface: 100 000 mètres carrés SHOB
 date: 2021-08-13T15:44:10.693Z
 fiches:
-  - fiches/ilot-pasteur-mediatheque.pdf
+  - ilot-pasteur-mediatheque.pdf
 maitre_oeuvre: Architectes Christian Curau et Francois Lallemand
 images:
-  - images/ilot-pasteur-mediatheque-1.jpg
-  - images/ilot-pasteur-mediatheque-2.jpg
-  - images/ilot-pasteur-mediatheque-3.jpg
-  - images/ilot-pasteur-mediatheque-4.jpg
-  - images/ilot-pasteur-mediatheque-5.jpg
+  - ilot-pasteur-mediatheque-1.jpg
+  - ilot-pasteur-mediatheque-2.jpg
+  - ilot-pasteur-mediatheque-3.jpg
+  - ilot-pasteur-mediatheque-4.jpg
+  - ilot-pasteur-mediatheque-5.jpg
 ---
 \-

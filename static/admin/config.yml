@@ -12,7 +12,9 @@ collections:
     label: "Projet"
     folder: "content/projets"
     create: true
-    slug: "{{slug}}"
+    path: "{{slug}}/index"
+    media_folder: ''
+    public_folder: ''
     sortable_fields: ["title", "weight"]
     preview_path: "projets/{{slug}}"
     fields:

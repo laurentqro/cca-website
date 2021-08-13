@@ -13,11 +13,11 @@ budget: 2 000 000 euros HT
 surface: 600 mètres carrés
 date: 2021-08-13T16:04:59.283Z
 fiches:
-  - fiches/avenue-saint-laurent-decoration.pdf
+  - avenue-saint-laurent-decoration.pdf
 maitre_oeuvre: Architecte Christian Curau
 images:
-  - images/avenue-saint-laurent-decoration-1.jpg
-  - images/avenue-saint-laurent-decoration-2.jpg
-  - images/avenue-saint-laurent-decoration-3.jpg
+  - avenue-saint-laurent-decoration-1.jpg
+  - avenue-saint-laurent-decoration-2.jpg
+  - avenue-saint-laurent-decoration-3.jpg
 ---
 Surélévation et transformation d'un immeuble avec création de deux appartements.

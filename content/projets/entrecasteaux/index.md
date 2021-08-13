@@ -13,11 +13,11 @@ budget: null
 surface: null
 date: 2021-08-13T16:02:00.575Z
 fiches:
-  - fiches/entrecasteaux.pdf
+  - entrecasteaux.pdf
 maitre_oeuvre: Architecte Christian Curau
 images:
-  - images/entrecasteaux-1.jpg
-  - images/entrecasteaux-2.jpg
-  - images/entrecasteaux-3.jpg
+  - entrecasteaux-1.jpg
+  - entrecasteaux-2.jpg
+  - entrecasteaux-3.jpg
 ---
 Travaux de réaménagement intérieur des corps de ferme d'un domaine viticole.

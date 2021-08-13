@@ -13,10 +13,10 @@ budget: 1 700 000 euros HT
 surface: "-"
 date: 2021-08-13T15:59:48.375Z
 fiches:
-  - fiches/villa-bruyeres.pdf
+  - villa-bruyeres.pdf
 maitre_oeuvre: Architecte Christian Curau
 images:
-  - images/villa-bruyeres-1.jpg
-  - images/villa-bruyeres-2.jpg
+  - villa-bruyeres-1.jpg
+  - villa-bruyeres-2.jpg
 ---
 Couverture de l'entrée d'un garage. Création d'un portique avec trois finitions de métal avec insertion de cordons lumineux LED.

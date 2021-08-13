@@ -13,10 +13,10 @@ budget: 1 700 000 euros HT
 surface: 500 mètres carrés SHOB
 date: 2021-08-13T16:00:26.753Z
 fiches:
-  - fiches/pavillon-france.pdf
+  - pavillon-france.pdf
 maitre_oeuvre: Architecte Christian Curau
 images:
-  - images/pavillon-france-1.jpg
-  - images/pavillon-france-2.jpg
+  - pavillon-france-1.jpg
+  - pavillon-france-2.jpg
 ---
 Construction d'un immeuble en rez-de chaussée + 4 étages.

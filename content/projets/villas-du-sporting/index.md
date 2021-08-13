@@ -15,13 +15,13 @@ budget: 24 679 000 euros HT
 surface: 1600 mètres carrés
 date: 2021-08-13T15:50:48.647Z
 fiches:
-  - fiches/villas-sporting-1.pdf
-  - fiches/villas-sporting-2.pdf
+  - villas-sporting-1.pdf
+  - villas-sporting-2.pdf
 maitre_oeuvre: Architectes Christian Curau et Laurent Gire
 images:
-  - images/villas-sporting-1.jpg
-  - images/villas-sporting-2.jpg
-  - images/villas-sporting-3.jpg
+  - villas-sporting-1.jpg
+  - villas-sporting-2.jpg
+  - villas-sporting-3.jpg
 ---
 Construction de trois villas, leurs garages privatifs, leurs espaces de services
 et l'aménagement de jardins paysagers, de piscines et d'un plan d'eau, situés en

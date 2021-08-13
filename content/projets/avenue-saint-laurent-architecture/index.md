@@ -14,9 +14,9 @@ budget: 2 000 000 euros HT
 surface: 600 mètres carrés
 date: 2021-08-13T14:42:09.004Z
 fiches:
-  - fiches/avenue-saint-laurent-architecture.pdf
+  - avenue-saint-laurent-architecture.pdf
 maitre_oeuvre: Architecte Christian Curau
 images:
-  - images/avenue-saint-laurent-architecture.jpg
+  - avenue-saint-laurent-architecture.jpg
 ---
 Surélévation et transformation d'un immeuble avec création de deux logements.

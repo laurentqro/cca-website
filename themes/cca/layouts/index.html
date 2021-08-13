@@ -3,7 +3,10 @@
       {{ with .Site.GetPage "projets" }}
           {{ range .Pages.ByWeight }}
             {{ $vignette := index (.Params.images) 0 }}
-              <a href="{{ .Permalink }}" class="border border-gray-600 bg-auto bg-no-repeat bg-center h-80 cursor-pointer" style="background-image: url(/projets/{{$vignette}})">
+              <a href="{{ .Permalink }}"
+                class="border border-gray-600 bg-auto bg-no-repeat bg-center h-80 cursor-pointer"
+                style="background-image: url({{.Permalink}}{{$vignette}})">
+
                 <h3 class="bg-gray-900 bg-opacity-75 p-5 text-center">
                   {{ .Title }}
                 </h3>
@@ -12,7 +15,7 @@
       {{ end }}
 
       <div class="col-span-2 mx-auto my-4 text-center bg-gray-800 rounded p-4 hover:bg-gray-700">
-        <a href="/projets/fiches/portfolio-cabinet-curau-architecte.zip" alt="portfolio cabinet Christian Curau Architecte" download>
+        <a href="/media/uploads/portfolio-cabinet-curau-architecte.zip" alt="portfolio cabinet Christian Curau Architecte" download>
           {{- partial "zip-icon.html" . -}}
           Télécharger le portfolio (~65 Mo)
         </a>

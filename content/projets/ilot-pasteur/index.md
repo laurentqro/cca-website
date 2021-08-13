@@ -15,12 +15,12 @@ budget: 247 450 000 euros HT
 surface: 100 000 mètres carrés SHOB
 date: 2021-08-13T15:38:24.623Z
 fiches:
-  - fiches/ilot-pasteur.pdf
+  - ilot-pasteur.pdf
 maitre_oeuvre: Architectes Christian Curau et Francois Lallemand
 images:
-  - images/ilot-pasteur-1.jpg
-  - images/ilot-pasteur-2.jpg
-  - images/ilot-pasteur-3.jpg
+  - ilot-pasteur-1.jpg
+  - ilot-pasteur-2.jpg
+  - ilot-pasteur-3.jpg
 youtube_video_ids:
   - lRXer9_t6qw
 ---

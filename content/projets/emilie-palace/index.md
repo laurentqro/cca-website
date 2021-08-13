@@ -13,12 +13,12 @@ budget: 1 900 000 euros HT
 surface: 180 mètres carrés
 date: 2021-08-13T16:02:35.775Z
 fiches:
-  - fiches/emilie-palace.pdf
+  - emilie-palace.pdf
 maitre_oeuvre: Architecte Christian Curau
 images:
-  - images/emilie-palace-1.jpg
-  - images/emilie-palace-2.jpg
-  - images/emilie-palace-3.jpg
-  - images/emilie-palace-4.jpg
+  - emilie-palace-1.jpg
+  - emilie-palace-2.jpg
+  - emilie-palace-3.jpg
+  - emilie-palace-4.jpg
 ---
 Travaux de réaménagement intérieurs de deux appartements en un seul.
