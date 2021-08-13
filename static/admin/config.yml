@@ -12,10 +12,11 @@ collections:
     label: "Projet"
     folder: "content/projets"
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: "{{slug}}"
     sortable_fields: ["title", "weight"]
     editor:
       preview: true
+    preview_path: "{{slug}}"
     fields:
       - label: "Titre"
         name: "title"
