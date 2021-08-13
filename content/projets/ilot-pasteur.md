@@ -24,7 +24,7 @@ images:
 youtube_video_ids:
   - lRXer9_t6qw
 ---
-* un collège de 1500 élèves
+* un collège de 1600 élèves
 * un gymnase et amphithéâtre
 * un bâtiment à usage de bureaux
 * une médiathèque
