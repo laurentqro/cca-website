@@ -1,12 +1,18 @@
 ---
 title: Test preview
-description: asdf
+description: Test preview description
 categorie: Architecture
 type_projet: Bureaux
-localisation: asdf
+type_contrat: CDD
+localisation: Monaco
+maitre_ouvrage: Laurent
+budget: 100 000 euros
+surface: "200"
+date_livraison: "2022"
 date: 2021-08-13T17:12:27.322Z
 images:
   - images/avenue-ostende-1.jpg
+  - images/avenue-saint-laurent-architecture.jpg
 ---
 ### Îlot Gastor
 
