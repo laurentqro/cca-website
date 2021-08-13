@@ -1,20 +1,23 @@
 ---
 title: Domaine viticole
+localisation: Entrecasteaux, France
+date_livraison: null
+draft: false
+description: Travaux de réaménagement intérieur des corps de ferme d'un domaine
+  viticole à Entrecasteaux, France. Mission complète de maîtrise d'œuvre.
 categorie: Décoration
 type_projet: Habitation
 type_contrat: Mission complète de maîtrise d'œuvre
-localisation: Entrecasteaux, France
 maitre_ouvrage: Privé
-maitre_oeuvre: Architecte Christian Curau
-budget:
-surface:
-date_livraison:
-images:
-    - images/entrecasteaux-1.jpg
-    - images/entrecasteaux-2.jpg
-    - images/entrecasteaux-3.jpg
+budget: null
+surface: null
+date: 2021-08-13T16:02:00.575Z
 fiches:
-    - fiches/entrecasteaux.pdf
-draft: false
+  - fiches/entrecasteaux.pdf
+maitre_oeuvre: Architecte Christian Curau
+images:
+  - images/entrecasteaux-1.jpg
+  - images/entrecasteaux-2.jpg
+  - images/entrecasteaux-3.jpg
 ---
 Travaux de réaménagement intérieur des corps de ferme d'un domaine viticole.
