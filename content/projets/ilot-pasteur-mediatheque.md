@@ -1,22 +1,28 @@
 ---
-weight: 2
 title: Médiathèque Îlot Pasteur
+localisation: Avenue de Fontvieille, Monaco
+date_livraison: 2024
+draft: false
+description: "Projet Médiathèque Îlot Pasteur: mission complète de maîtrise
+  d'œuvre avec démarche Haute qualité Environnementale (HQE), Avenue de
+  Fontvieille, Monaco."
+weight: 2
 categorie: Décoration
 type_projet: Médiathèque
-type_contrat: Mission complète de maîtrise d'œuvre avec démarche Haute qualité Environnementale (HQE).
-localisation: Avenue de Fontvieille, Monaco
+type_contrat: Mission complète de maîtrise d'œuvre avec démarche Haute qualité
+  Environnementale (HQE).
 maitre_ouvrage: Principauté de Monaco
-maitre_oeuvre: Architectes Christian Curau et Francois Lallemand
 budget: 247 450 000 euros HT
 surface: 100 000 mètres carrés SHOB
-date_livraison: 2024
-images:
-    - images/ilot-pasteur-mediatheque-1.jpg
-    - images/ilot-pasteur-mediatheque-2.jpg
-    - images/ilot-pasteur-mediatheque-3.jpg
-    - images/ilot-pasteur-mediatheque-4.jpg
-    - images/ilot-pasteur-mediatheque-5.jpg
+date: 2021-08-13T15:44:10.693Z
 fiches:
-    - fiches/ilot-pasteur-mediatheque.pdf
-draft: false
+  - fiches/ilot-pasteur-mediatheque.pdf
+maitre_oeuvre: Architectes Christian Curau et Francois Lallemand
+images:
+  - images/ilot-pasteur-mediatheque-1.jpg
+  - images/ilot-pasteur-mediatheque-2.jpg
+  - images/ilot-pasteur-mediatheque-3.jpg
+  - images/ilot-pasteur-mediatheque-4.jpg
+  - images/ilot-pasteur-mediatheque-5.jpg
 ---
+\-
