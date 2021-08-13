@@ -1,20 +1,23 @@
 ---
 title: Décoration Avenue Saint Laurent
+localisation: Avenue Saint Laurent, Monaco
+date_livraison: null
+draft: false
+description: Surélévation et transformation d'un immeuble avec création de deux
+  appartements. Avenue Saint Laurent, Monaco.
 categorie: Décoration
 type_projet: Habitation
 type_contrat: Mission complète de maîtrise d'œuvre
-localisation: Avenue Saint Laurent, Monaco
 maitre_ouvrage: Privé
-maitre_oeuvre: Architecte Christian Curau
 budget: 2 000 000 euros HT
 surface: 600 mètres carrés
-date_livraison:
-images:
-    - images/avenue-saint-laurent-decoration-1.jpg
-    - images/avenue-saint-laurent-decoration-2.jpg
-    - images/avenue-saint-laurent-decoration-3.jpg
+date: 2021-08-13T16:04:59.283Z
 fiches:
-     - fiches/avenue-saint-laurent-decoration.pdf
-draft: false
+  - fiches/avenue-saint-laurent-decoration.pdf
+maitre_oeuvre: Architecte Christian Curau
+images:
+  - images/avenue-saint-laurent-decoration-1.jpg
+  - images/avenue-saint-laurent-decoration-2.jpg
+  - images/avenue-saint-laurent-decoration-3.jpg
 ---
-Surélévation et transformation d'un immeuble avec création de deux appartements
+Surélévation et transformation d'un immeuble avec création de deux appartements.
