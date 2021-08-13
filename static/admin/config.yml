@@ -12,14 +12,20 @@ collections:
     editor:
       preview: false
     fields:
-      - label: "Title"
+      - label: "Titre"
         name: "title"
         widget: "string"
+      - label: "Description (s'affichera dans les résultats de moteurs de recherche)"
+        name: "description"
+        widget: "string"
+      - label: "Description détaillée"
+        name: "body"
+        widget: "markdown"
       - label: "Ordre d'affichage"
         name: "weight"
         widget: "number"
         optional: true
-      - label: "Categorie"
+      - label: "Catégorie"
         name: "categorie"
         widget: "select"
         options: ["Architecture", "Décoration"]
@@ -51,12 +57,6 @@ collections:
       - label: "Date de publication"
         name: "date"
         widget: "date"
-      - label: "Description"
-        name: "description"
-        widget: "text"
-      - label: "Article"
-        name: "body"
-        widget: "markdown"
       - label: "Images"
         name: "images"
         widget: "list"
@@ -67,5 +67,5 @@ collections:
         name: "fiches"
         widget: "list"
         collapsed: false
-        summary: '{{fields.image}}'
+        summary: '{{fields.fiche}}'
         field: {label: Fiche, name: fiche, widget: file, media_folder: "/static/media/uploads/files", choose_url: false}
