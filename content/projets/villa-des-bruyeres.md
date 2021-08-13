@@ -1,19 +1,22 @@
 ---
 title: Portique du garage de la Villa des Bruyères
+localisation: Place Sainte Dévote, Monaco
+date_livraison: 2019
+draft: false
+description: Couverture de l'entrée d'un garage. Création d'un portique avec
+  trois finitions de métal avec insertion de cordons lumineux LED, à Monaco.
 categorie: Architecture
 type_projet: Habitation
 type_contrat: Mission complète de maîtrise d'œuvre
-localisation: Place Sainte Dévote, Monaco
 maitre_ouvrage: Privé
-maitre_oeuvre: Architecte Christian Curau
 budget: 1 700 000 euros HT
-surface:
-date_livraison: 2019
-images:
-    - images/villa-bruyeres-1.jpg
-    - images/villa-bruyeres-2.jpg
+surface: "-"
+date: 2021-08-13T15:59:48.375Z
 fiches:
-    - fiches/villa-bruyeres.pdf
-draft: false
+  - fiches/villa-bruyeres.pdf
+maitre_oeuvre: Architecte Christian Curau
+images:
+  - images/villa-bruyeres-1.jpg
+  - images/villa-bruyeres-2.jpg
 ---
-Couverture de l'entrée d'un garage. Création d'un portique avec trois finitions de métal avec insertion de cordons lumineux LED
+Couverture de l'entrée d'un garage. Création d'un portique avec trois finitions de métal avec insertion de cordons lumineux LED.
