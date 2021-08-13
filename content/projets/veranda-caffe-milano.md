@@ -13,7 +13,7 @@ date_livraison:
 images:
     - veranda-caffe-milano-1.jpg
     - veranda-caffe-milano-2.jpg
-documents:
+fiches:
     - veranda-caffe-milano.pdf
 draft: false
 ---

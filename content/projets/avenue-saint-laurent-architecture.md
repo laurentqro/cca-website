@@ -11,7 +11,7 @@ surface: 600 mètres carrés
 date_livraison: 2021
 images:
     - avenue-saint-laurent-architecture.jpg
-documents:
+fiches:
     - avenue-saint-laurent-architecture.pdf
 draft: false
 ---

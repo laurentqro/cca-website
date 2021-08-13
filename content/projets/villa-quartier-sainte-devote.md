@@ -14,7 +14,7 @@ images:
     - villa-quartier-sainte-devote-1.jpg
     - villa-quartier-sainte-devote-2.jpg
     - villa-quartier-sainte-devote-3.jpg
-documents:
+fiches:
     - villa-quartier-sainte-devote.pdf
 draft: false
 ---

@@ -15,7 +15,7 @@ images:
     - ilot-pasteur-1.jpg
     - ilot-pasteur-2.jpg
     - ilot-pasteur-3.jpg
-documents:
+fiches:
     - ilot-pasteur.pdf
 youtube_video_ids:
     - lRXer9_t6qw

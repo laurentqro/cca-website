@@ -20,7 +20,7 @@ images:
   - avenue-ostende-3.jpg
   - avenue-ostende-4.jpg
   - avenue-ostende-5.jpg
-documents:
+fiches:
   - avenue-ostende.pdf
 ---
 Travaux de réaménagement d'intérieur

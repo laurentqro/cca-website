@@ -14,7 +14,7 @@ images:
     - emilie-palace-2.jpg
     - emilie-palace-3.jpg
     - emilie-palace-4.jpg
-documents:
+fiches:
     - emilie-palace.pdf
 draft: false
 ---

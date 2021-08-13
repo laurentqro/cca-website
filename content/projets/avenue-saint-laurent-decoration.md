@@ -13,8 +13,8 @@ images:
     - avenue-saint-laurent-decoration-1.jpg
     - avenue-saint-laurent-decoration-2.jpg
     - avenue-saint-laurent-decoration-3.jpg
-documents:
-    - avenue-saint-laurent-decoration.pdf
+fiches:
+     - avenue-saint-laurent-decoration.pdf
 draft: false
 ---
 Surélévation et transformation d'un immeuble avec création de deux appartements

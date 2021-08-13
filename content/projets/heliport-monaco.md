@@ -16,7 +16,7 @@ images:
     - heliport-monaco-3.jpg
     - heliport-monaco-4.jpg
     - heliport-monaco-5.jpg
-documents:
+fiches:
     - heliport-monaco.pdf
 draft: false
 ---

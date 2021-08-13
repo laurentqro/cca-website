@@ -13,7 +13,7 @@ images:
     - avenue-saint-laurent-garage-1.jpg
     - avenue-saint-laurent-garage-2.jpg
     - avenue-saint-laurent-garage-3.jpg
-documents:
+fiches:
     - avenue-saint-laurent-garage.pdf
 draft: false
 ---

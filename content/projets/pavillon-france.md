@@ -12,7 +12,7 @@ date_livraison: 2019
 images:
     - pavillon-france-1.jpg
     - pavillon-france-2.jpg
-documents:
+fiches:
     - pavillon-france.pdf
 draft: false
 ---

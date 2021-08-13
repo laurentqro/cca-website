@@ -14,7 +14,7 @@ images:
     - extension-ministere-etat-2.jpg
     - extension-ministere-etat-3.jpg
     - extension-ministere-etat-4.jpg
-documents:
+fiches:
     - extension-ministere-etat.pdf
 draft: false
 ---

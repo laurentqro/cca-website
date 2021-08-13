@@ -14,7 +14,7 @@ images:
     - international-school-monaco-1.jpg
     - international-school-monaco-2.jpg
     - international-school-monaco-3.jpg
-documents:
+fiches:
     - international-school-monaco.pdf
 draft: false
 ---

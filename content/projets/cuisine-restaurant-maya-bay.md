@@ -14,7 +14,7 @@ images:
     - cuisine-restaurant-maya-bay-1.jpg
     - cuisine-restaurant-maya-bay-2.jpg
     - cuisine-restaurant-maya-bay-3.jpg
-documents:
+fiches:
     - cuisine-restaurant-maya-bay.pdf
 draft: false
 ---

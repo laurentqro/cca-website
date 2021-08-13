@@ -13,7 +13,7 @@ images:
     - entrecasteaux-1.jpg
     - entrecasteaux-2.jpg
     - entrecasteaux-3.jpg
-documents:
+fiches:
     - entrecasteaux.pdf
 draft: false
 ---

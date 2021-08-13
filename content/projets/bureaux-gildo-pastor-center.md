@@ -14,7 +14,7 @@ images:
     - bureaux-gildo-pastor-center-2.jpg
     - bureaux-gildo-pastor-center-3.jpg
     - bureaux-gildo-pastor-center-4.jpg
-documents:
+fiches:
     - bureaux-gildo-pastor-center.pdf
 draft: false
 ---
