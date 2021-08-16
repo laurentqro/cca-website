@@ -17,7 +17,7 @@ collections:
     media_folder: ""
     public_folder: ""
     sortable_fields: ["title", "weight"]
-    preview_path: "projets/{{slug}}"
+    preview_path: "projets/{{dirname}}"
     fields:
       - label: "Titre"
         name: "title"
