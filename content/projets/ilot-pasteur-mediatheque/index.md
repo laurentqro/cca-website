@@ -25,4 +25,3 @@ images:
   - ilot-pasteur-mediatheque-4.jpg
   - ilot-pasteur-mediatheque-5.jpg
 ---
-\-
