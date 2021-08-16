@@ -94,6 +94,17 @@
                     </dd>
                 </div>
                 {{end}}
+
+                {{ with .Params.date_livraison }}
+                <div class="w-full flex-none flex items-baseline py-2">
+                    <dt class="w-2/5 sm:w-1/3 flex-none tracking-wide">
+                        Date de livraison
+                    </dt>
+                    <dd class="px-2">
+                        {{ . }}
+                    </dd>
+                </div>
+                {{end}}
             </dl>
 
             {{ range $document_path := .Params.Fiches }}
