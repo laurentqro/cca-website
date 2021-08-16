@@ -6,7 +6,7 @@ type_projet: Bureaux
 localisation: Test
 date: 2021-08-16T08:27:05.626Z
 images:
-  - images/avenue-ostende-1.jpg
+  - ecrin-malachite-2.jpg
 fiches:
   - fiches/emilie-palace.pdf
 ---
