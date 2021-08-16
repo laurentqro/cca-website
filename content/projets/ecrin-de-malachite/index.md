@@ -1,5 +1,5 @@
 ---
-title: Villas Quartier Sainte Dévote
+title: Ecrin de Malachite
 localisation: 2 rue Auréglia, Monaco
 date_livraison: 2021
 draft: false
@@ -15,11 +15,11 @@ budget: 1 430 000 euros HT
 surface: 10 000 mètres carrés
 date: 2021-08-13T15:52:10.780Z
 fiches:
-  - villa-quartier-sainte-devote.pdf
+  - ecrin-de-malachite.pdf
 maitre_oeuvre: Architecte Christian Curau
 images:
-  - villa-quartier-sainte-devote-1.jpg
-  - villa-quartier-sainte-devote-2.jpg
-  - villa-quartier-sainte-devote-3.jpg
+  - ecrin-de-malachite-1.jpg
+  - ecrin-de-malachite-2.jpg
+  - ecrin-de-malachite-3.jpg
 ---
 Création d'un ensemble immobilier à usage d'habitation comprenant trois villas de très haut standing à usage privé et d'un immeuble de huit appartements de standing supérieur à usage collectif.
