@@ -3,16 +3,35 @@
       {{ with .Site.GetPage "projets" }}
           {{ range .Pages.ByWeight }}
             {{ $vignette := index (.Params.images) 0 }}
-              <a href="{{ .Permalink }}" class="border border-gray-600 bg-auto bg-no-repeat bg-center h-80 cursor-pointer" style="background-image: url(/projets/{{$vignette}})">
-                <h3 class="bg-gray-900 bg-opacity-75 p-5 text-center">
-                  {{ .Title }}
-                </h3>
+              <a href="{{ .Permalink }}"
+                class="border border-gray-600 bg-auto bg-no-repeat bg-center h-80 cursor-pointer"
+                style="background-image: url({{.Permalink}}{{$vignette}})">
+
+                <div class="flex flex-row justify-between bg-gray-900 bg-opacity-75 p-5">
+                  <div>
+                    <h3 class>
+                      {{ .Title }}
+                    </h3>
+                  </div>
+
+                  <div class="flex flex-row text-gray-200 text-opacity-50">
+                    {{ with .Params.youtube_video_ids }}
+                    <div class="px-2">
+                      {{- partial "film-icon.html" . -}}
+                    </div>
+                    {{end}}
+
+                    <div>
+                      {{- partial "camera-icon.html" . -}}
+                    </div>
+                  </div>
+                </div>
               </a>
           {{ end }}
       {{ end }}
 
       <div class="col-span-2 mx-auto my-4 text-center bg-gray-800 rounded p-4 hover:bg-gray-700">
-        <a href="/media/uploads/portfolio-cabinet-curau-architecte.zip" alt="portfolio cabinet Christian Curau Architecte" download>
+        <a href="/media/uploads/portfolio.zip" alt="portfolio cabinet Christian Curau Architecte" download>
           {{- partial "zip-icon.html" . -}}
           Télécharger le portfolio (~65 Mo)
         </a>
