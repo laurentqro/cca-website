@@ -14,8 +14,8 @@ collections:
     folder: "content/projets"
     create: true
     path: "{{slug}}/index"
-    media_folder: ''
-    public_folder: ''
+    media_folder: ""
+    public_folder: ""
     sortable_fields: ["title", "weight"]
     preview_path: "projets/{{slug}}"
     fields:
@@ -72,13 +72,13 @@ collections:
         widget: "list"
         collapsed: false
         summary: '{{fields.image}}'
-        field: {label: Image, name: image, widget: image, media_folder: "images", choose_url: false}
+        field: {label: Image, name: image, widget: image, media_folder: "", choose_url: false}
       - label: "Fiches"
         name: "fiches"
         widget: "list"
         collapsed: false
         summary: '{{fields.fiche}}'
-        field: {label: Fiche, name: fiche, widget: file, media_folder: "fiches", choose_url: false}
+        field: {label: Fiche, name: fiche, widget: file, media_folder: "", choose_url: false}
   - label: "Pages"
     name: "pages"
     files:
