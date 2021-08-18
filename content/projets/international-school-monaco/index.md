@@ -11,7 +11,7 @@ type_projet: Ecole
 type_contrat: Mission complète de maîtrise d'œuvre
 maitre_ouvrage: International School of Monaco
 budget: 6 100 000 euros HT
-surface: 1200 mètres carrés SHOB
+surface: 1200 M² SHOB
 date: 2021-08-13T15:49:26.838Z
 fiches:
   - international-school-monaco.pdf
