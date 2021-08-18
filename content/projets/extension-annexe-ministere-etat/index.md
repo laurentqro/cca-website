@@ -1,6 +1,6 @@
 ---
 title: Extension de l'annexe du ministère d'Etat
-localisation: Avenue des Ligures, Quartier de Fontvieille, Monaco
+localisation: Ministère d'Etat - Place de la Visitation, Monaco-Ville
 date_livraison: null
 draft: false
 description: Concours d'idées pour l'extension de l'annexe du Ministère d'Etat
@@ -22,4 +22,4 @@ images:
   - extension-ministere-etat-3.jpg
   - extension-ministere-etat-4.jpg
 ---
-Dans le cadre d'un concours d'idées pour l'extension de l'annexe du Ministère d'Etat de la Principauté de Monaco, deux options étaient à illustrer pour répondre au mieux aux programmes: par la fonctionnalité des espaces, par la qualité architecturale, urbanistique et environnementale, par la réponse à l'organisation générale propre au ministère, par la réflexion concernant l'impact du chantier sur le fonctionnement des deux corps de bâtiments existants.
+Dans le cadre d'un concours d'idées pour l'extension de l'annexe du Ministère d'Etat de la Principauté de Monaco, deux options étaient à illustrer pour répondre au mieux aux programmes: par la fonctionnalité des espaces, par la qualité architecturale, urbanistique et environnementale, par la réponse à l'organisation générale propre au Ministère, par la réflexion concernant l'impact du chantier sur le fonctionnement des deux corps de bâtiments existants.
