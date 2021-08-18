@@ -11,7 +11,7 @@ type_projet: Concours
 type_contrat: "-"
 maitre_ouvrage: Gouvernement Princier
 budget: 2 500 000 euros HT (option A) / 8 000 000 euros HT (option B)
-surface: 400 mètres carrés (option A) / 750 mètres carrés (option B)
+surface: 400 M² (option A) / 750 M² (option B)
 date: 2021-08-13T15:52:44.418Z
 fiches:
   - extension-ministere-etat.pdf
