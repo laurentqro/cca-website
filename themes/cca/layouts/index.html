@@ -8,22 +8,14 @@
                 style="background-image: url({{.Permalink}}{{$vignette}})">
 
                 <div class="flex flex-row justify-between bg-gray-900 bg-opacity-75 p-5">
-                  <div>
-                    <h3 class>
-                      {{ .Title }}
-                    </h3>
-                  </div>
+                  <h3 class>
+                    {{ .Title }}
+                  </h3>
 
                   <div class="flex flex-row text-gray-200 text-opacity-50">
                     {{ with .Params.youtube_video_ids }}
-                    <div class="px-2">
                       {{- partial "film-icon.html" . -}}
-                    </div>
                     {{end}}
-
-                    <div>
-                      {{- partial "camera-icon.html" . -}}
-                    </div>
                   </div>
                 </div>
               </a>
