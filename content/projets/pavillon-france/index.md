@@ -10,7 +10,7 @@ type_projet: Habitation
 type_contrat: Mission complète de maîtrise d'œuvre
 maitre_ouvrage: Privé
 budget: 1 700 000 euros HT
-surface: 500 mètres carrés SHOB
+surface: 500 M² SHOB
 date: 2021-08-13T16:00:26.753Z
 fiches:
   - pavillon-france.pdf
