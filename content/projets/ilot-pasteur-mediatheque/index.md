@@ -12,8 +12,8 @@ type_projet: Médiathèque
 type_contrat: Mission complète de maîtrise d'œuvre avec démarche Haute qualité
   Environnementale (HQE).
 maitre_ouvrage: Principauté de Monaco
-budget: 247 450 000 euros HT
-surface: 100 000 mètres carrés SHOB
+budget: 352 000 000 euros HT
+surface: 100 000 M² SHOB
 date: 2021-08-13T15:44:10.693Z
 fiches:
   - ilot-pasteur-mediatheque.pdf
