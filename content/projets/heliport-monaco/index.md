@@ -13,7 +13,7 @@ type_projet: Héliport
 type_contrat: Mission complète de maîtrise d'œuvre
 maitre_ouvrage: Principauté de Monaco
 budget: 29 000 000 euros HT
-surface: 10 000 mètres carrés
+surface: 12 000 M²
 date: 2021-08-13T15:48:27.194Z
 fiches:
   - heliport-monaco.pdf
