@@ -1,6 +1,6 @@
 ---
 title: Véranda toîture-terrasse commerciale
-localisation: Presqu'île du Sporting d'Été, Avenue Princesse Grace, Monaco
+localisation: Quai Albert Ier, Monaco
 date_livraison: null
 draft: false
 description: Modification de la toîture de la véranda existante en une nouvelle
@@ -10,9 +10,9 @@ weight: 9
 categorie: Architecture
 type_projet: Commerce
 type_contrat: Mission complète de maîtrise d'œuvre
-maitre_ouvrage: Société des Bains de Mers de Monaco
+maitre_ouvrage: Café Milano
 budget: 350 000 euros HT
-surface: 80 mètres carrés
+surface: 80 M²
 date: 2021-08-13T15:55:16.262Z
 fiches:
   - veranda-caffe-milano.pdf
