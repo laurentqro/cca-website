@@ -10,7 +10,7 @@ type_projet: Bureaux
 type_contrat: Mission complète de maîtrise d'œuvre
 maitre_ouvrage: Privé
 budget: 450 000 euros HT
-surface: 300 mètres carrés SHOB
+surface: 300 M² SHOB
 date: 2021-08-13T16:03:32.362Z
 fiches:
   - bureaux-gildo-pastor-center.pdf
