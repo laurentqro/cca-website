@@ -12,7 +12,7 @@ type_projet: Habitation
 type_contrat: Mission complète de maîtrise d'œuvre
 maitre_ouvrage: Privé
 budget: 1 430 000 euros HT
-surface: 10 000 mètres carrés
+surface: 10 000 M²
 date: 2021-08-13T15:52:10.780Z
 fiches:
   - ecrin-de-malachite.pdf
