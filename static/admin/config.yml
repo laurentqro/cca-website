@@ -48,8 +48,12 @@ collections:
       - label: "Localisation"
         name: "localisation"
         widget: "string"
-      - label: "Maitre d'ouvrage"
-        name: "maitre_ouvrage"
+      - label: "Maîtrise d'ouvrage"
+        name: "maitrise_ouvrage"
+        required: false
+        widget: "string"
+      - label: "Maîtrise d'œuvre"
+        name: "maitrise_oeuvre"
         required: false
         widget: "string"
       - label: "Budget"
