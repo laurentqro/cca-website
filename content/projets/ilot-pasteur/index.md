@@ -10,13 +10,13 @@ categorie: Architecture
 type_projet: Multi-fonctionnel
 type_contrat: Mission complète de maîtrise d'œuvre avec démarche Haute qualité
   Environnementale (HQE).
-maitre_ouvrage: Principauté de Monaco
+maitrise_ouvrage: Principauté de Monaco
 budget: 352 000 000 euros HT
 surface: 100 000 M² SHOB
 date: 2021-08-13T15:38:24.623Z
 fiches:
   - ilot-pasteur.pdf
-maitre_oeuvre: Architectes Christian Curau et Francois Lallemand
+maitrise_oeuvre: Architectes Christian Curau et Francois Lallemand
 images:
   - ilot-pasteur-1.jpg
   - ilot-pasteur-2.jpg

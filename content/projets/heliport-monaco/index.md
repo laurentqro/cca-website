@@ -11,13 +11,13 @@ weight: 4
 categorie: Architecture
 type_projet: Héliport
 type_contrat: Mission complète de maîtrise d'œuvre
-maitre_ouvrage: Principauté de Monaco
+maitrise_ouvrage: Principauté de Monaco
 budget: 29 000 000 euros HT
 surface: 12 000 M²
 date: 2021-08-13T15:48:27.194Z
 fiches:
   - heliport-monaco.pdf
-maitre_oeuvre: Architecte Christian Curau
+maitrise_oeuvre: Architecte Christian Curau
 images:
   - heliport-monaco-1.jpg
   - heliport-monaco-2.jpg

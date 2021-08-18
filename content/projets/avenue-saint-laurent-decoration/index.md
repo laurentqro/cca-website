@@ -8,13 +8,13 @@ description: Surélévation et transformation d'un hôtel particulier avec créa
 categorie: Décoration
 type_projet: Habitation
 type_contrat: Mission complète de maîtrise d'œuvre
-maitre_ouvrage: Privé
+maitrise_ouvrage: Privé
 budget: 2 000 000 euros HT
 surface: 600 M²
 date: 2021-08-13T16:04:59.283Z
 fiches:
   - avenue-saint-laurent-decoration.pdf
-maitre_oeuvre: Architecte Christian Curau
+maitrise_oeuvre: Architecte Christian Curau
 images:
   - avenue-saint-laurent-decoration-1.jpg
   - avenue-saint-laurent-decoration-2.jpg

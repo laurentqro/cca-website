@@ -9,13 +9,13 @@ weight: 11
 categorie: Architecture
 type_projet: Habitation
 type_contrat: Mission complète de maîtrise d'œuvre
-maitre_ouvrage: Privé
+maitrise_ouvrage: Privé
 budget: 2 000 000 euros HT
 surface: 600 M²
 date: 2021-08-13T14:42:09.004Z
 fiches:
   - avenue-saint-laurent-architecture.pdf
-maitre_oeuvre: Architecte Christian Curau
+maitrise_oeuvre: Architecte Christian Curau
 images:
   - avenue-saint-laurent-architecture.jpg
 ---

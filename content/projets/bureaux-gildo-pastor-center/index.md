@@ -8,13 +8,13 @@ description: Travaux de réaménagement dans leur intégralité des bureaux au G
 categorie: Décoration
 type_projet: Bureaux
 type_contrat: Mission complète de maîtrise d'œuvre
-maitre_ouvrage: Privé
+maitrise_ouvrage: Privé
 budget: 450 000 euros HT
 surface: 300 M² SHOB
 date: 2021-08-13T16:03:32.362Z
 fiches:
   - bureaux-gildo-pastor-center.pdf
-maitre_oeuvre: Architecte Christian Curau
+maitrise_oeuvre: Architecte Christian Curau
 images:
   - bureaux-gildo-pastor-center-1.jpg
   - bureaux-gildo-pastor-center-2.jpg

@@ -10,13 +10,13 @@ weight: 7
 categorie: Architecture
 type_projet: Habitation
 type_contrat: Mission complète de maîtrise d'œuvre
-maitre_ouvrage: Privé
+maitrise_ouvrage: Privé
 budget: 1 430 000 euros HT
 surface: 10 000 M²
 date: 2021-08-13T15:52:10.780Z
 fiches:
   - ecrin-de-malachite.pdf
-maitre_oeuvre: Architecte Christian Curau
+maitrise_oeuvre: Architecte Christian Curau
 images:
   - ecrin-de-malachite-1.jpg
   - ecrin-de-malachite-2.jpg

@@ -11,13 +11,13 @@ categorie: Décoration
 type_projet: Médiathèque
 type_contrat: Mission complète de maîtrise d'œuvre avec démarche Haute qualité
   Environnementale (HQE).
-maitre_ouvrage: Principauté de Monaco
+maitrise_ouvrage: Principauté de Monaco
 budget: 352 000 000 euros HT
 surface: 100 000 M² SHOB
 date: 2021-08-13T15:44:10.693Z
 fiches:
   - ilot-pasteur-mediatheque.pdf
-maitre_oeuvre: Architectes Christian Curau et Francois Lallemand
+maitrise_oeuvre: Architectes Christian Curau et Francois Lallemand
 images:
   - ilot-pasteur-mediatheque-1.jpg
   - ilot-pasteur-mediatheque-2.jpg

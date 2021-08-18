@@ -8,13 +8,13 @@ weight: "15"
 categorie: Décoration
 type_projet: Habitation
 type_contrat: Mission complète de maîtrise d'œuvre
-maitre_ouvrage: Privé
+maitrise_ouvrage: Privé
 budget: 750 000 euros HT
 surface: 180 M²
 date: 2021-08-12T17:07:40.504Z
 fiches:
   - avenue-ostende.pdf
-maitre_oeuvre: Architecte Christian Curau
+maitrise_oeuvre: Architecte Christian Curau
 images:
   - avenue-ostende-1.jpg
   - avenue-ostende-2.jpg

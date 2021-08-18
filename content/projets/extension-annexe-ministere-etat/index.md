@@ -9,13 +9,13 @@ weight: 8
 categorie: Architecture
 type_projet: Concours
 type_contrat: "-"
-maitre_ouvrage: Gouvernement Princier
+maitrise_ouvrage: Gouvernement Princier
 budget: 2 500 000 euros HT (option A) / 8 000 000 euros HT (option B)
 surface: 400 M² (option A) / 750 M² (option B)
 date: 2021-08-13T15:52:44.418Z
 fiches:
   - extension-ministere-etat.pdf
-maitre_oeuvre: Architecte Christian Curau
+maitrise_oeuvre: Architecte Christian Curau
 images:
   - extension-ministere-etat-1.jpg
   - extension-ministere-etat-2.jpg

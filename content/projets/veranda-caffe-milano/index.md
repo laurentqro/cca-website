@@ -10,13 +10,13 @@ weight: 9
 categorie: Architecture
 type_projet: Commerce
 type_contrat: Mission complète de maîtrise d'œuvre
-maitre_ouvrage: Café Milano
+maitrise_ouvrage: Café Milano
 budget: 350 000 euros HT
 surface: 80 M²
 date: 2021-08-13T15:55:16.262Z
 fiches:
   - veranda-caffe-milano.pdf
-maitre_oeuvre: Architecte Christian Curau
+maitrise_oeuvre: Architecte Christian Curau
 images:
   - veranda-caffe-milano-1.jpg
   - veranda-caffe-milano-2.jpg

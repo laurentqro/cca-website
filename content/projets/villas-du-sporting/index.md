@@ -10,13 +10,13 @@ weight: 6
 categorie: Architecture
 type_projet: Habitation
 type_contrat: Mission complète de maîtrise d'œuvre
-maitre_ouvrage: Société des Bains de Mers de Monaco
+maitrise_ouvrage: Société des Bains de Mers de Monaco
 budget: 24 679 000 euros HT
 surface: 1600 M²
 date: 2021-08-13T15:50:48.647Z
 fiches:
   - villas-sporting.pdf
-maitre_oeuvre: Architectes Christian Curau et Laurent Gire
+maitrise_oeuvre: Architectes Christian Curau et Laurent Gire
 images:
   - villas-sporting-1.jpg
   - villas-sporting-2.jpg
