@@ -10,7 +10,7 @@ type_projet: Habitation
 type_contrat: Mission complète de maîtrise d'œuvre
 maitre_ouvrage: Privé
 budget: 1 900 000 euros HT
-surface: 180 mètres carrés
+surface: 180 M²
 date: 2021-08-13T16:02:35.775Z
 fiches:
   - emilie-palace.pdf
