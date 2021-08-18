@@ -11,7 +11,7 @@ type_projet: Restaurant
 type_contrat: Mission complète de maîtrise d'œuvre
 maitre_ouvrage: SARL Maya Bay
 budget: 1 430 000 euros HT
-surface: 200 mètres carrés SHOB
+surface: 200 M² SHOB
 date: 2021-08-13T15:47:55.691Z
 fiches:
   - cuisine-restaurant-maya-bay.pdf
