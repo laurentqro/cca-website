@@ -73,6 +73,12 @@ collections:
         collapsed: false
         summary: '{{fields.image}}'
         field: {label: Image, name: image, widget: image, media_folder: "", choose_url: false}
+      - label: "Vidéos Youtube"
+        name: "youtube_video_urls"
+        widget: "list"
+        collapsed: false
+        summary: '{{fields.youtube_video_url}}'
+        field: {label: URL de la vidéo Youtube (exemple: https://www.youtube.com/watch?v=lRXer9_t6qw), name: youtube_video_url, widget: string}
       - label: "Fiches"
         name: "fiches"
         widget: "list"

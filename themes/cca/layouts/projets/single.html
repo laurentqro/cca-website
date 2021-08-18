@@ -124,17 +124,11 @@
         </aside>
 
         <main class="min-h-screen md:w-2/3">
-          {{ range $youtube_video_id := .Params.youtube_video_ids }}
-          <div class="aspect-w-16 aspect-h-9 border border-gray-600 rounded-sm mb-4">
-            <iframe
-                class="w-full h-full"
-                src="https://www.youtube.com/embed/{{ $youtube_video_id }}"
-                title="YouTube video player"
-                frameborder="0"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowfullscreen>
-            </iframe>
-          </div>
+          {{ range $youtube_video_url := .Params.youtube_video_urls }}
+            {{ $url := urls.Parse $youtube_video_url }}
+            {{ $query := $url.Query }}
+            {{ $id := $query.Get "v"  }}
+            {{ partial "youtube-video.html" (dict "id" $id) }}
           {{ end }}
 
           {{ range $image_path := .Params.Images }}

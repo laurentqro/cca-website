@@ -21,8 +21,8 @@ images:
   - ilot-pasteur-1.jpg
   - ilot-pasteur-2.jpg
   - ilot-pasteur-3.jpg
-youtube_video_ids:
-  - lRXer9_t6qw
+youtube_video_urls:
+  - https://www.youtube.com/watch?v=lRXer9_t6qw
 ---
 * un collège de 1500 élèves
 * un gymnase et amphithéâtre
