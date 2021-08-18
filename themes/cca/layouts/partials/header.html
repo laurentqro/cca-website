@@ -1,6 +1,6 @@
 <header class="md:flex flex-row mt-8 mb-16 pr-5 justify-between">
   <div class="md:flex flex-row">
-    <div class="w-40 text-center flex-shrink-0">
+    <div class="w-40 flex-shrink-0">
       <a href="/">
         {{- partial "logo.html" . -}}
       </a>
@@ -29,5 +29,15 @@
     </div>
   </div>
 
-  {{- partial "navigation.html" . -}}
+  <div>
+    <div>
+      {{- partial "navigation.html" . -}}
+    </div>
+
+    <div class="md:relative mt-10">
+      <div class="absolute md:inset-y-0 md:right-0">
+        {{- partial "portfolio.html" . -}}
+      </div>
+    </div>
+  </div>
 </header>
