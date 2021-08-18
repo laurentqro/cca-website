@@ -20,4 +20,4 @@ images:
   - entrecasteaux-2.jpg
   - entrecasteaux-3.jpg
 ---
-Travaux de réaménagement intérieur des corps de ferme d'un domaine viticole.
+Travaux de réaménagement intérieur des corps de bâtiment d'un domaine viticole.
