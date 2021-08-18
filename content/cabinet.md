@@ -5,7 +5,7 @@ Fondé en 1984 par Christian Curau, diplomé par le gouvernement français la m�
 
 Il se compose d'une équipe de collaborateurs capables d'assurer l'étude et la réalisation de programmes immobiliers d'envergure.
 
-Le 1er décembre 2011, Christian Curau a été nommé Architecte Conservateur du Palais Princier par SAS le Prince Albert II.
+Le 1er décembre 2011, Christian Curau a été nommé Architecte - Conservateur du Palais Princier par SAS Le Prince Albert II.
 
 ## Activité
 
