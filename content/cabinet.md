@@ -11,8 +11,8 @@ Le 1er décembre 2011, Christian Curau a été nommé Architecte Conservateur du
 
 Opérations dans les domaines scolaire, hospitalier, bancaire, commercial, tertiaire, aéroportuaire, habitation, décoration et mobilier.
 
-Expérience d’études en régions cycloniques et gestion de chantiers éloignés, notamment sur l'Ile de la Réunion et en Guadeloupe.
- 
+Expérience d’études en régions cycloniques et gestion de chantiers éloignés, notamment sur l'Ile de la Réunion et les Antilles.
+
 ## Recherche
 
 Recherches et Conférences dans le domaine des phénomènes sismiques:
