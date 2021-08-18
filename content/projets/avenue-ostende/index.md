@@ -10,7 +10,7 @@ type_projet: Habitation
 type_contrat: Mission complète de maîtrise d'œuvre
 maitre_ouvrage: Privé
 budget: 750 000 euros HT
-surface: 180 mètres carrés
+surface: 180 M²
 date: 2021-08-12T17:07:40.504Z
 fiches:
   - avenue-ostende.pdf
