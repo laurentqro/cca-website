@@ -1,31 +1,36 @@
 <header class="md:flex flex-row mt-8 mb-16 pr-5 justify-between">
   <div class="md:flex flex-row">
-    <div class="w-40 flex-shrink-0">
+    <div class="w-40 flex-shrink-0 my-3">
       <a href="/">
         {{- partial "logo.html" . -}}
       </a>
     </div>
 
-    <div class="text-xs md:border-l md:ml-10 border-gray-500 md:pl-4 flex-shrink-0">
-      <p><strong>Christian Curau - Architecte DPLG</strong><br />
-      Architecte Conservateur du Palais Princier<br />
-      41, Boulevard des Moulins - 98000 Monaco<br />
-      <span class="flex mt-1">
-        <svg xmlns="http://www.w3.org/2000/svg" class="h-3 w-3 mr-2" viewBox="0 0 20 20" fill="currentColor">
-          <path d="M2 3a1 1 0 011-1h2.153a1 1 0 01.986.836l.74 4.435a1 1 0 01-.54 1.06l-1.548.773a11.037 11.037 0 006.105 6.105l.774-1.548a1 1 0 011.059-.54l4.435.74a1 1 0 01.836.986V17a1 1 0 01-1 1h-2C7.82 18 2 12.18 2 5V3z" />
-        </svg> <a class="underline" href="tel:+377 97 77 23 23">+377 97 77 23 23</a><br />
-      </span>
-      <span class="flex">
-        <svg xmlns="http://www.w3.org/2000/svg" class="h-3 w-3 mr-2" viewBox="0 0 20 20" fill="currentColor">
-          <path fill-rule="evenodd" d="M14.243 5.757a6 6 0 10-.986 9.284 1 1 0 111.087 1.678A8 8 0 1118 10a3 3 0 01-4.8 2.401A4 4 0 1114 10a1 1 0 102 0c0-1.537-.586-3.07-1.757-4.243zM12 10a2 2 0 10-4 0 2 2 0 004 0z" clip-rule="evenodd" />
-        </svg> <a class="underline" href="mailto:contact@cca-mc.com">contact@cca-mc.com</a>
-      </span>
-      <div class="w-14">
+    <div class="md:border-l md:ml-10 border-gray-500 md:pl-4 flex-shrink-0">
+      <p class="text-xs leading-normal">
+        <strong class="text-sm">Christian Curau - Architecte DPLG<br />
+        Architecte Conservateur du Palais Princier</strong>
+      </p>
+      <p class="text-xs leading-relaxed">
+        41, Boulevard des Moulins - 98000 Monaco
+        <span class="flex">
+          <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-3" viewBox="0 0 20 20" fill="currentColor">
+            <path d="M2 3a1 1 0 011-1h2.153a1 1 0 01.986.836l.74 4.435a1 1 0 01-.54 1.06l-1.548.773a11.037 11.037 0 006.105 6.105l.774-1.548a1 1 0 011.059-.54l4.435.74a1 1 0 01.836.986V17a1 1 0 01-1 1h-2C7.82 18 2 12.18 2 5V3z" />
+          </svg> <a class="underline pl-1" href="tel:+377 97 77 23 23">+377 97 77 23 23</a><br />
+        </span>
+
+        <span class="flex">
+          <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-3" viewBox="0 0 20 20" fill="currentColor">
+            <path fill-rule="evenodd" d="M14.243 5.757a6 6 0 10-.986 9.284 1 1 0 111.087 1.678A8 8 0 1118 10a3 3 0 01-4.8 2.401A4 4 0 1114 10a1 1 0 102 0c0-1.537-.586-3.07-1.757-4.243zM12 10a2 2 0 10-4 0 2 2 0 004 0z" clip-rule="evenodd" />
+          </svg> <a class="underline pl-1" href="mailto:contact@cca-mc.com">contact@cca-mc.com</a>
+        </span>
+      </p>
+
+      <div class="w-14 py-3">
         <a href="https://www.architectes-monaco.com" target="_blank">
-            <img src="/media/images/conseil-ordre-architectes.png" alt="Conseil de l'Ordre des Architectes de Monaco">
+          <img src="/media/images/conseil-ordre-architectes.png" alt="Conseil de l'Ordre des Architectes de Monaco">
         </a>
       </div>
-      </p>
     </div>
   </div>
 
