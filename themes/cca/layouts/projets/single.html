@@ -108,19 +108,15 @@
             </dl>
 
             {{ range $document_path := .Params.Fiches }}
-            <div class="flex justify-between w-full text-xs bg-gray-800 rounded mt-4">
-              <div class="m-4 text-center p-4 hover:bg-gray-700 rounded">
+            <div class="text-center text-xs bg-gray-800 rounded mt-4">
+              <div class="text-center p-4 hover:bg-gray-700 rounded">
                 <a href="{{ $dir }}{{ $document_path }}" alt="{{ $document_path }}" download>
                   {{- partial "pdf-icon.html" . -}}
                   Fiche du projet
                 </a>
               </div>
-              {{ end }}
-
-              <div class="m-4">
-                {{- partial "portfolio.html" . -}}
-              </div>
             </div>
+            {{ end }}
         </aside>
 
         <main class="min-h-screen md:w-2/3">
