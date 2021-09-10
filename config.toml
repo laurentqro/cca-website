@@ -4,4 +4,4 @@ theme = "cca"
 staticDir = "static"
 disableKinds = ['taxonomy', 'term', 'category']
 [params]
-  Description = "Cabinet d'architecte à Monaco: étude et la réalisation de projets immobiliers de grande envergure."
+  Description = "Cabinet d'architecte à Monaco: étude et réalisation de projets immobiliers de grande envergure."
