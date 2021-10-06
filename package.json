@@ -18,7 +18,7 @@
   "description": "",
   "dependencies": {
     "@tailwindcss/aspect-ratio": "^0.2.2",
-    "autoprefixer": "^10.3.6",
+    "autoprefixer": "^10.3.7",
     "postcss": "^8.3.8",
     "postcss-cli": "^8.3.1",
     "postcss-import": "^14.0.2",
