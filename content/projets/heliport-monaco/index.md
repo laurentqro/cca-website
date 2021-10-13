@@ -24,6 +24,7 @@ images:
   - heliport-monaco-5.jpg
 youtube_video_urls:
   - https://www.youtube.com/watch?v=nGnHZrVYNy0
+  - https://www.youtube.com/watch?v=mGahRCXfiiU
 fiches:
   - heliport-monaco.pdf
 ---
