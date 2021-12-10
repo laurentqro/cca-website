@@ -17,7 +17,7 @@
   "homepage": "https://github.com/laurentqro/cca-website#readme",
   "description": "",
   "dependencies": {
-    "@tailwindcss/aspect-ratio": "^0.3.0",
+    "@tailwindcss/aspect-ratio": "^0.4.0",
     "autoprefixer": "^10.4.0",
     "postcss": "^8.4.4",
     "postcss-cli": "^9.0.2",
