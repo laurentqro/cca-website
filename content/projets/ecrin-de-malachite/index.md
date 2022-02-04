@@ -5,7 +5,7 @@ categorie: Architecture
 type_projet: Habitation
 type_contrat: Mission complète de maîtrise d'œuvre
 localisation: 2 rue Auréglia, Monaco
-date_livraison: 2021
+date_livraison: "2025"
 draft: false
 description: Création d'un ensemble immobilier à usage d'habitation comprenant 3
   villas de très haut standing à usage privé et d'un immeuble de 8 appartements
