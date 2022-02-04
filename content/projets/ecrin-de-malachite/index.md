@@ -12,8 +12,8 @@ description: Création d'un ensemble immobilier à usage d'habitation comprenant
   de standing à usage collectif.
 maitrise_ouvrage: Privé
 maitrise_oeuvre: Architecte Christian Curau
-budget: 70 000 euros HT
-surface: 10 000 M²
+budget: 70 000 000 euros HT
+surface: 12 000 M²
 date: 2021-08-13T15:52:10.780Z
 images:
   - ecrin-de-malachite-1.jpg
