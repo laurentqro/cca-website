@@ -12,8 +12,8 @@ draft: false
 title: Îlot Pasteur
 weight: 1
 maitrise_oeuvre: Architectes Christian Curau & François Lallemand
-budget: 352 000 000 euros HT
-surface: 100 000 M² SHOB
+budget: 345 000 000 euros HT
+surface: 120 000 M² SHOB
 date: 2021-08-13T15:38:24.623Z
 images:
   - ilot-pasteur-1.jpg
