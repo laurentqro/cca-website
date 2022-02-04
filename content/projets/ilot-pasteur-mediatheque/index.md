@@ -13,8 +13,8 @@ description: "Projet Médiathèque Îlot Pasteur: mission complète de maîtrise
   Fontvieille, Monaco."
 maitrise_ouvrage: Principauté de Monaco
 maitrise_oeuvre: Architectes Christian Curau & François Lallemand
-budget: 352 000 000 euros HT
-surface: 100 000 M² SHOB
+budget: 345 000 000 euros HT
+surface: 120 000 M² SHOB
 date: 2021-08-13T15:44:10.693Z
 images:
   - ilot-pasteur-mediatheque-1.jpg
