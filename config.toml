@@ -1,7 +1,12 @@
+baseURL = "https://laurentqro.github.io/cca-website/"
 languageCode = "fr-fr"
 title = "Christian Curau Architecte - CCA"
 theme = "cca"
 staticDir = "static"
 disableKinds = ['taxonomy', 'term', 'category']
+
 [params]
   Description = "Cabinet d'architecte à Monaco: étude et réalisation de projets immobiliers de grande envergure."
+
+[build]
+  writeStats = true
