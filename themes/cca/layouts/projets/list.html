@@ -1,25 +1,39 @@
 {{ define "main" }}
-    <main class="grid md:grid-cols-2 gap-4 pb-28">
-      {{ with .Site.GetPage "projets" }}
+    <main class="pb-28">
+      <h1 class="text-4xl font-bold mb-8">Nos Projets</h1>
+
+      <div class="grid md:grid-cols-2 gap-8 md:gap-10">
+        {{ with .Site.GetPage "projets" }}
           {{ range .Pages.ByWeight }}
             {{ $vignette := index (.Params.images) 0 }}
-              <a href="{{ .Permalink }}"
-                class="border border-gray-600 bg-auto bg-no-repeat bg-center h-80 cursor-pointer"
-                style="background-image: url({{.Permalink}}{{$vignette}})">
+            <a href="{{ .Permalink }}"
+               class="group relative border border-gray-600 bg-cover bg-center h-80 cursor-pointer overflow-hidden rounded-lg transition-all duration-300 hover:border-blue-400 hover:shadow-2xl"
+               style="background-image: url({{.Permalink}}{{$vignette}})">
 
-                <div class="flex flex-row justify-between bg-gray-900 bg-opacity-75 p-5">
-                  <h3 class>
+              <div class="absolute inset-0 bg-gradient-to-t from-gray-900 via-gray-900/50 to-transparent group-hover:via-gray-900/70 transition-colors duration-300"></div>
+
+              <div class="relative h-full flex flex-col justify-between p-5">
+                <div class="flex flex-row justify-end text-gray-200 text-opacity-50">
+                  {{ with .Params.youtube_video_urls}}
+                    {{- partial "film-icon.html" . -}}
+                  {{end}}
+                </div>
+
+                <div>
+                  <h3 class="text-2xl font-bold text-white mb-2 group-hover:text-blue-300 transition-colors duration-300">
                     {{ .Title }}
                   </h3>
-
-                  <div class="flex flex-row text-gray-200 text-opacity-50">
-                    {{ with .Params.youtube_video_urls}}
-                      {{- partial "film-icon.html" . -}}
-                    {{end}}
-                  </div>
+                  <p class="text-gray-200 flex items-center gap-2">
+                    {{ .Params.localisation }}
+                    <svg class="w-4 h-4 group-hover:translate-x-2 transition-transform duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                    </svg>
+                  </p>
                 </div>
-              </a>
+              </div>
+            </a>
           {{ end }}
-      {{ end }}
+        {{ end }}
+      </div>
     </main>
 {{ end }}
